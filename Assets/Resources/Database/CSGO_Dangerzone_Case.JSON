@@ -1,0 +1,1864 @@
+{
+    "Case":[
+        {
+            "ID": 0,
+            "Name": "AK-47 | Asiimov",
+            "Price": "20.18f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052045443959867A15180827503D16493987801065874901",
+            "StatTrak": false
+           },
+           {
+            "ID": 1,
+            "Name": "AK-47 | Asiimov",
+            "Price": "28.04f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422440044789212A15159209239D5683620127879629651",
+            "StatTrak": false
+           },
+           {
+            "ID": 2,
+            "Name": "AK-47 | Asiimov",
+            "Price": "28.64f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378725347A15181435684D14447693334128658301",
+            "StatTrak": false
+           },
+           {
+            "ID": 3,
+            "Name": "AK-47 | Asiimov",
+            "Price": "48.94f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422545288440882A15181364303D4803736479189577533",
+            "StatTrak": false
+           },
+           {
+            "ID": 4,
+            "Name": "AK-47 | Asiimov",
+            "Price": "206.78f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548178766534283A15160243004D12559006942316225523",
+            "StatTrak": false
+           },
+           {
+            "ID": 5,
+            "Name": "AK-47 | Asiimov",
+            "Price": "42.97f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052045443959867A15180827503D16493987801065874901",
+            "StatTrak": true
+           },
+           {
+            "ID": 6,
+            "Name": "AK-47 | Asiimov",
+            "Price": "61.00f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422440044789212A15159209239D5683620127879629651",
+            "StatTrak": true
+           },
+           {
+            "ID": 7,
+            "Name": "AK-47 | Asiimov",
+            "Price": "57.36f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378725347A15181435684D14447693334128658301",
+            "StatTrak": true
+           },
+           {
+            "ID": 8,
+            "Name": "AK-47 | Asiimov",
+            "Price": "102.09f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422545288440882A15181364303D4803736479189577533",
+            "StatTrak": true
+           },
+           {
+            "ID": 9,
+            "Name": "AK-47 | Asiimov",
+            "Price": "534.60f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548178766534283A15160243004D12559006942316225523",
+            "StatTrak": true
+           },
+           {
+            "ID": 10,
+            "Name": "AWP | Neo-Noir",
+            "Price": "19.58f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842021259A15159213990D17041729053530282667",
+            "StatTrak": false
+           },
+           {
+            "ID": 11,
+            "Name": "AWP | Neo-Noir",
+            "Price": "21.83f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378790517A15181503648D9719417449285178091",
+            "StatTrak": false
+           },
+           {
+            "ID": 12,
+            "Name": "AWP | Neo-Noir",
+            "Price": "23.52f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991051936897168067A15159075068D156616678239818957",
+            "StatTrak": false
+           },
+           {
+            "ID": 13,
+            "Name": "AWP | Neo-Noir",
+            "Price": "27.94f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296378952697201A15159533826D9827602615490869323",
+            "StatTrak": false
+           },
+           {
+            "ID": 14,
+            "Name": "AWP | Neo-Noir",
+            "Price": "35.17f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422440045527342A15160183803D7793594476278765765",
+            "StatTrak": false
+           },
+           {
+            "ID": 15,
+            "Name": "AWP | Neo-Noir",
+            "Price": "40.02f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842021259A15159213990D17041729053530282667",
+            "StatTrak": true
+           },
+           {
+            "ID": 16,
+            "Name": "AWP | Neo-Noir",
+            "Price": "40.99f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378790517A15181503648D9719417449285178091",
+            "StatTrak": true
+           },
+           {
+            "ID": 17,
+            "Name": "AWP | Neo-Noir",
+            "Price": "42.60f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991051936897168067A15159075068D156616678239818957",
+            "StatTrak": true
+           },
+           {
+            "ID": 18,
+            "Name": "AWP | Neo-Noir",
+            "Price": "61.15f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296378952697201A15159533826D9827602615490869323",
+            "StatTrak": true
+           },
+           {
+            "ID": 19,
+            "Name": "AWP | Neo-Noir",
+            "Price": "84.11f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422440045527342A15160183803D7793594476278765765",
+            "StatTrak": true
+           },
+           {
+            "ID": 20,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "3.22f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548178765791103A15159221082D12154230704373164685",
+            "StatTrak": false
+           },
+           {
+            "ID": 21,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "3.70f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674058524A15159065415D11828739788434751621",
+            "StatTrak": false
+           },
+           {
+            "ID": 22,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "3.35f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422545288079822A15181000154D9964469685412089541",
+            "StatTrak": false
+           },
+           {
+            "ID": 23,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "5.00f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842683649A15160016994D16442299647783380167",
+            "StatTrak": false
+           },
+           {
+            "ID": 24,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "8.39f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836064800338A15159253965D7090605664590293711",
+            "StatTrak": false
+           },
+           {
+            "ID": 25,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "7.42f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548178765791103A15159221082D12154230704373164685",
+            "StatTrak": true
+           },
+           {
+            "ID": 26,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "8.62f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674058524A15159065415D11828739788434751621",
+            "StatTrak": true
+           },
+           {
+            "ID": 27,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "7.65f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422545288079822A15181000154D9964469685412089541",
+            "StatTrak": true
+           },
+           {
+            "ID": 28,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "12.14f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842683649A15160016994D16442299647783380167",
+            "StatTrak": true
+           },
+           {
+            "ID": 29,
+            "Name": "Desert Eagle | Mecha Industries",
+            "Price": "18.95f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836064800338A15159253965D7090605664590293711",
+            "StatTrak": true
+           },
+           {
+            "ID": 30,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "2.69f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497754866A15159231160D14593363646005593367",
+            "StatTrak": false
+           },
+           {
+            "ID": 31,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "3.12f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497683416A15159092904D2765287997231423953",
+            "StatTrak": false
+           },
+           {
+            "ID": 32,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "3.17f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170479045280230A15159246775D11983001286292523869",
+            "StatTrak": false
+           },
+           {
+            "ID": 33,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "4.79f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177943193346608A15180663343D5341914297719295871",
+            "StatTrak": false
+           },
+           {
+            "ID": 34,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "8.56f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842023219A15159185823D3073252546557879707",
+            "StatTrak": false
+           },
+           {
+            "ID": 35,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "4.70f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497754866A15159231160D14593363646005593367",
+            "StatTrak": true
+           },
+           {
+            "ID": 36,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "5.96f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497683416A15159092904D2765287997231423953",
+            "StatTrak": true
+           },
+           {
+            "ID": 37,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "5.99f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170479045280230A15159246775D11983001286292523869",
+            "StatTrak": true
+           },
+           {
+            "ID": 38,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "9.82f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177943193346608A15180663343D5341914297719295871",
+            "StatTrak": true
+           },
+           {
+            "ID": 39,
+            "Name": "MP5-SD | Phosphor",
+            "Price": "17.68f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842023219A15159185823D3073252546557879707",
+            "StatTrak": true
+           },
+           {
+            "ID": 40,
+            "Name": "UMP-45 | Momentum",
+            "Price": "2.52f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378654117A15181374011D6975705158735847078",
+            "StatTrak": false
+           },
+           {
+            "ID": 41,
+            "Name": "UMP-45 | Momentum",
+            "Price": "2.56f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836064923608A15159423362D16728313101370259528",
+            "StatTrak": false
+           },
+           {
+            "ID": 42,
+            "Name": "UMP-45 | Momentum",
+            "Price": "3.25f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993304000953253909A15179665175D10133346441853900426",
+            "StatTrak": false
+           },
+           {
+            "ID": 43,
+            "Name": "UMP-45 | Momentum",
+            "Price": "4.71f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842294929A15159621985D2371399115504197348",
+            "StatTrak": false
+           },
+           {
+            "ID": 44,
+            "Name": "UMP-45 | Momentum",
+            "Price": "8.27f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170479053354360A15168528344D14577670694568950316",
+            "StatTrak": false
+           },
+           {
+            "ID": 45,
+            "Name": "UMP-45 | Momentum",
+            "Price": "5.68f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378654117A15181374011D6975705158735847078",
+            "StatTrak": true
+           },
+           {
+            "ID": 46,
+            "Name": "UMP-45 | Momentum",
+            "Price": "6.31f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836064923608A15159423362D16728313101370259528",
+            "StatTrak": true
+           },
+           {
+            "ID": 47,
+            "Name": "UMP-45 | Momentum",
+            "Price": "6.03f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993304000953253909A15179665175D10133346441853900426",
+            "StatTrak": true
+           },
+           {
+            "ID": 48,
+            "Name": "UMP-45 | Momentum",
+            "Price": "9.32f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842294929A15159621985D2371399115504197348",
+            "StatTrak": true
+           },
+           {
+            "ID": 49,
+            "Name": "UMP-45 | Momentum",
+            "Price": "17.83f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170479053354360A15168528344D14577670694568950316",
+            "StatTrak": true
+           },
+           {
+            "ID": 50,
+            "Name": "USP-S | Flashback",
+            "Price": "0.46f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378668557A15181325197D14729590095213966305",
+            "StatTrak": false
+           },
+           {
+            "ID": 51,
+            "Name": "USP-S | Flashback",
+            "Price": "0.47f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422440044914512A15159380272D10269019448985466153",
+            "StatTrak": false
+           },
+           {
+            "ID": 52,
+            "Name": "USP-S | Flashback",
+            "Price": "0.40f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800137701016365A15159463058D578823056899833193",
+            "StatTrak": false
+           },
+           {
+            "ID": 53,
+            "Name": "USP-S | Flashback",
+            "Price": "0.60f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296378952841621A15159767586D45790991431725901",
+            "StatTrak": false
+           },
+           {
+            "ID": 54,
+            "Name": "USP-S | Flashback",
+            "Price": "1.14f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842332689A15159648616D13853110003823744485",
+            "StatTrak": false
+           },
+           {
+            "ID": 55,
+            "Name": "USP-S | Flashback",
+            "Price": "1.88f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378668557A15181325197D14729590095213966305",
+            "StatTrak": true
+           },
+           {
+            "ID": 56,
+            "Name": "USP-S | Flashback",
+            "Price": "1.60f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422440044914512A15159380272D10269019448985466153",
+            "StatTrak": true
+           },
+           {
+            "ID": 57,
+            "Name": "USP-S | Flashback",
+            "Price": "1.12f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800137701016365A15159463058D578823056899833193",
+            "StatTrak": true
+           },
+           {
+            "ID": 58,
+            "Name": "USP-S | Flashback",
+            "Price": "1.46f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296378952841621A15159767586D45790991431725901",
+            "StatTrak": true
+           },
+           {
+            "ID": 59,
+            "Name": "USP-S | Flashback",
+            "Price": "2.46f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993303665842332689A15159648616D13853110003823744485",
+            "StatTrak": true
+           },
+           {
+            "ID": 60,
+            "Name": "P250 | Nevermore",
+            "Price": "0.42f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800337655698655A15179065192D3036799174981242304",
+            "StatTrak": false
+           },
+           {
+            "ID": 61,
+            "Name": "P250 | Nevermore",
+            "Price": "0.39f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422545288501752A15181243512D5100505295591205664",
+            "StatTrak": false
+           },
+           {
+            "ID": 62,
+            "Name": "P250 | Nevermore",
+            "Price": "0.58f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378671017A15181389162D14854634013828902180",
+            "StatTrak": false
+           },
+           {
+            "ID": 63,
+            "Name": "P250 | Nevermore",
+            "Price": "1.18f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800137700973585A15159402084D5667925552431925516",
+            "StatTrak": false
+           },
+           {
+            "ID": 64,
+            "Name": "P250 | Nevermore",
+            "Price": "1.54f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800337655698655A15179065192D3036799174981242304",
+            "StatTrak": true
+           },
+           {
+            "ID": 65,
+            "Name": "P250 | Nevermore",
+            "Price": "0.81f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422545288501752A15181243512D5100505295591205664",
+            "StatTrak": true
+           },
+           {
+            "ID": 66,
+            "Name": "P250 | Nevermore",
+            "Price": "1.34f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378671017A15181389162D14854634013828902180",
+            "StatTrak": true
+           },
+           {
+            "ID": 67,
+            "Name": "P250 | Nevermore",
+            "Price": "2.44f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800137700973585A15159402084D5667925552431925516",
+            "StatTrak": true
+           },
+           {
+            "ID": 68,
+            "Name": "Galil AR | Signal",
+            "Price": "0.34f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850556010A15181469452D16151822249528303431",
+            "StatTrak": false
+           },
+           {
+            "ID": 69,
+            "Name": "Galil AR | Signal",
+            "Price": "0.37f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177943193248708A15181183877D14142081293508981063",
+            "StatTrak": false
+           },
+           {
+            "ID": 70,
+            "Name": "Galil AR | Signal",
+            "Price": "0.37f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548535204411113A15181460736D12548801536203077091",
+            "StatTrak": false
+           },
+           {
+            "ID": 71,
+            "Name": "Galil AR | Signal",
+            "Price": "0.58f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497773156A15159267851D317695957544778061",
+            "StatTrak": false
+           },
+           {
+            "ID": 72,
+            "Name": "Galil AR | Signal",
+            "Price": "1.12f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836065029768A15159560432D9818094210199608167",
+            "StatTrak": false
+           },
+           {
+            "ID": 73,
+            "Name": "Galil AR | Signal",
+            "Price": "0.95f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850556010A15181469452D16151822249528303431",
+            "StatTrak": true
+           },
+           {
+            "ID": 74,
+            "Name": "Galil AR | Signal",
+            "Price": "0.99f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177943193248708A15181183877D14142081293508981063",
+            "StatTrak": true
+           },
+           {
+            "ID": 75,
+            "Name": "Galil AR | Signal",
+            "Price": "0.84f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548535204411113A15181460736D12548801536203077091",
+            "StatTrak": true
+           },
+           {
+            "ID": 76,
+            "Name": "Galil AR | Signal",
+            "Price": "1.33f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497773156A15159267851D317695957544778061",
+            "StatTrak": true
+           },
+           {
+            "ID": 77,
+            "Name": "Galil AR | Signal",
+            "Price": "2.36f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836065029768A15159560432D9818094210199608167",
+            "StatTrak": true
+           },
+           {
+            "ID": 78,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "0.28f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296735632682781A15180407429D9566814160789294831",
+            "StatTrak": false
+           },
+           {
+            "ID": 79,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "0.32f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548178765854463A15159314778D14766222247670917645",
+            "StatTrak": false
+           },
+           {
+            "ID": 80,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "0.36f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548535203862333A15180883658D12249899077600633575",
+            "StatTrak": false
+           },
+           {
+            "ID": 81,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "0.61f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052045443989147A15181225142D2370655813272289829",
+            "StatTrak": false
+           },
+           {
+            "ID": 82,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "1.25f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378777037A15179532019D14439178596925033569",
+            "StatTrak": false
+           },
+           {
+            "ID": 83,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "0.57f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296735632682781A15180407429D9566814160789294831",
+            "StatTrak": true
+           },
+           {
+            "ID": 84,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "0.64f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548178765854463A15159314778D14766222247670917645",
+            "StatTrak": true
+           },
+           {
+            "ID": 85,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "0.67f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548535203862333A15180883658D12249899077600633575",
+            "StatTrak": true
+           },
+           {
+            "ID": 86,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "1.33f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052045443989147A15181225142D2370655813272289829",
+            "StatTrak": true
+           },
+           {
+            "ID": 87,
+            "Name": "MAC-10 | Pipe Down",
+            "Price": "3.60f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378777037A15179532019D14439178596925033569",
+            "StatTrak": true
+           },
+           {
+            "ID": 88,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "0.30f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422545287243962A15180182985D9676808615812142619",
+            "StatTrak": false
+           },
+           {
+            "ID": 89,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "0.34f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989926309794478356A15174554667D2318909651272105051",
+            "StatTrak": false
+           },
+           {
+            "ID": 90,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "0.36f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296735633756771A15181482201D5541378937680614423",
+            "StatTrak": false
+           },
+           {
+            "ID": 91,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "0.59f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497716546A15159156804D7534144091903759449",
+            "StatTrak": false
+           },
+           {
+            "ID": 92,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "1.14f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800337658033895A15181218849D14856475916254764285",
+            "StatTrak": false
+           },
+           {
+            "ID": 93,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "0.63f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1985422545287243962A15180182985D9676808615812142619",
+            "StatTrak": true
+           },
+           {
+            "ID": 94,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "0.67f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989926309794478356A15174554667D2318909651272105051",
+            "StatTrak": true
+           },
+           {
+            "ID": 95,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "0.76f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296735633756771A15181482201D5541378937680614423",
+            "StatTrak": true
+           },
+           {
+            "ID": 96,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "1.26f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497716546A15159156804D7534144091903759449",
+            "StatTrak": true
+           },
+           {
+            "ID": 97,
+            "Name": "G3SG1 | Scavenger",
+            "Price": "2.29f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800337658033895A15181218849D14856475916254764285",
+            "StatTrak": true
+           },
+           {
+            "ID": 98,
+            "Name": "M4A4 | Magnesium",
+            "Price": "0.05f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674440842837724A15181105141D164029957189504652",
+            "StatTrak": false
+           },
+           {
+            "ID": 99,
+            "Name": "M4A4 | Magnesium",
+            "Price": "0.05f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850577400A15181494149D9953103200060811394",
+            "StatTrak": false
+           },
+           {
+            "ID": 100,
+            "Name": "M4A4 | Magnesium",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989926309794501856A15175279616D16168704142972543212",
+            "StatTrak": false
+           },
+           {
+            "ID": 101,
+            "Name": "M4A4 | Magnesium",
+            "Price": "0.13f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296735633716441A15181417609D14135157164570536552",
+            "StatTrak": false
+           },
+           {
+            "ID": 102,
+            "Name": "M4A4 | Magnesium",
+            "Price": "0.94f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850429660A15181339912D886085718441682632",
+            "StatTrak": false
+           },
+           {
+            "ID": 103,
+            "Name": "M4A4 | Magnesium",
+            "Price": "0.18f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674440842837724A15181105141D164029957189504652",
+            "StatTrak": true
+           },
+           {
+            "ID": 104,
+            "Name": "M4A4 | Magnesium",
+            "Price": "0.21f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850577400A15181494149D9953103200060811394",
+            "StatTrak": true
+           },
+           {
+            "ID": 105,
+            "Name": "M4A4 | Magnesium",
+            "Price": "0.37f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989926309794501856A15175279616D16168704142972543212",
+            "StatTrak": true
+           },
+           {
+            "ID": 106,
+            "Name": "M4A4 | Magnesium",
+            "Price": "0.96f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296735633716441A15181417609D14135157164570536552",
+            "StatTrak": true
+           },
+           {
+            "ID": 107,
+            "Name": "M4A4 | Magnesium",
+            "Price": "5.41f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850429660A15181339912D886085718441682632",
+            "StatTrak": true
+           },
+           {
+            "ID": 108,
+            "Name": "Tec-9 | Fubar",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674188404A15159403817D14865367436444161520",
+            "StatTrak": false
+           },
+           {
+            "ID": 109,
+            "Name": "Tec-9 | Fubar",
+            "Price": "0.04f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800337658320475A15181426809D9259977728749951354",
+            "StatTrak": false
+           },
+           {
+            "ID": 110,
+            "Name": "Tec-9 | Fubar",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850535560A15181438248D7696232729597784918",
+            "StatTrak": false
+           },
+           {
+            "ID": 111,
+            "Name": "Tec-9 | Fubar",
+            "Price": "0.70f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850447770A15181095931D16197795020020716348",
+            "StatTrak": false
+           },
+           {
+            "ID": 112,
+            "Name": "Tec-9 | Fubar",
+            "Price": "0.07f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674188404A15159403817D14865367436444161520",
+            "StatTrak": true
+           },
+           {
+            "ID": 113,
+            "Name": "Tec-9 | Fubar",
+            "Price": "0.09f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800337658320475A15181426809D9259977728749951354",
+            "StatTrak": true
+           },
+           {
+            "ID": 114,
+            "Name": "Tec-9 | Fubar",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850535560A15181438248D7696232729597784918",
+            "StatTrak": true
+           },
+           {
+            "ID": 115,
+            "Name": "Tec-9 | Fubar",
+            "Price": "2.15f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850447770A15181095931D16197795020020716348",
+            "StatTrak": true
+           },
+           {
+            "ID": 116,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836064792658A15159229261D7407928988565269832",
+            "StatTrak": false
+           },
+           {
+            "ID": 117,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "0.07f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177943193193098A15181317605D5380297732582451978",
+            "StatTrak": false
+           },
+           {
+            "ID": 118,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378692167A15181377477D4755803544209353482",
+            "StatTrak": false
+           },
+           {
+            "ID": 119,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "0.08f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878517582926A15181279025D9658743914571785674",
+            "StatTrak": false
+           },
+           {
+            "ID": 120,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "0.26f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378773307A15179179161D16899236736195234126",
+            "StatTrak": false
+           },
+           {
+            "ID": 121,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "0.10f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836064792658A15159229261D7407928988565269832",
+            "StatTrak": true
+           },
+           {
+            "ID": 122,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "0.22f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177943193193098A15181317605D5380297732582451978",
+            "StatTrak": true
+           },
+           {
+            "ID": 123,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "0.11f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378692167A15181377477D4755803544209353482",
+            "StatTrak": true
+           },
+           {
+            "ID": 124,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "0.25f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878517582926A15181279025D9658743914571785674",
+            "StatTrak": true
+           },
+           {
+            "ID": 125,
+            "Name": "Glock-18 | Oxide Blaze",
+            "Price": "1.22f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991052210378773307A15179179161D16899236736195234126",
+            "StatTrak": true
+           },
+           {
+            "ID": 126,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.05f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674440843030084A15181238798D17197602685945290938",
+            "StatTrak": false
+           },
+           {
+            "ID": 127,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.06f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497834086A15159381075D775362570690121246",
+            "StatTrak": false
+           },
+           {
+            "ID": 128,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993304000953122649A15181354720D17024877772966208660",
+            "StatTrak": false
+           },
+           {
+            "ID": 129,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.10f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836064865028A15159332261D13901592150903630430",
+            "StatTrak": false
+           },
+           {
+            "ID": 130,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.20f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497834806A15159359923D14754461159945146108",
+            "StatTrak": false
+           },
+           {
+            "ID": 131,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.08f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674440843030084A15181238798D17197602685945290938",
+            "StatTrak": true
+           },
+           {
+            "ID": 132,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.19f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497834086A15159381075D775362570690121246",
+            "StatTrak": true
+           },
+           {
+            "ID": 133,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993304000953122649A15181354720D17024877772966208660",
+            "StatTrak": true
+           },
+           {
+            "ID": 134,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.26f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1992177836064865028A15159332261D13901592150903630430",
+            "StatTrak": true
+           },
+           {
+            "ID": 135,
+            "Name": "MP9 | Modest Threat",
+            "Price": "0.64f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497834806A15159359923D14754461159945146108",
+            "StatTrak": true
+           },
+           {
+            "ID": 136,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296378952450691A15159133265D9713352646228969297",
+            "StatTrak": false
+           },
+           {
+            "ID": 137,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.05f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989926309794508796A15181364224D65913953667007441",
+            "StatTrak": false
+           },
+           {
+            "ID": 138,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296735633657641A15181369519D9540425433413977977",
+            "StatTrak": false
+           },
+           {
+            "ID": 139,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674190724A15159431128D9378830500485981599",
+            "StatTrak": false
+           },
+           {
+            "ID": 140,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.21f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800337658282035A15175715881D2921255671036004343",
+            "StatTrak": false
+           },
+           {
+            "ID": 141,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.08f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296378952450691A15159133265D9713352646228969297",
+            "StatTrak": true
+           },
+           {
+            "ID": 142,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.13f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989926309794508796A15181364224D65913953667007441",
+            "StatTrak": true
+           },
+           {
+            "ID": 143,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984296735633657641A15181369519D9540425433413977977",
+            "StatTrak": true
+           },
+           {
+            "ID": 144,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.22f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674190724A15159431128D9378830500485981599",
+            "StatTrak": true
+           },
+           {
+            "ID": 145,
+            "Name": "SG 553 | Danger Close",
+            "Price": "0.74f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1988800337658282035A15175715881D2921255671036004343",
+            "StatTrak": true
+           },
+           {
+            "ID": 146,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674100664A15159292015D9263487610696711593",
+            "StatTrak": false
+           },
+           {
+            "ID": 147,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.05f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674440843037894A15180219943D14330463645229194179",
+            "StatTrak": false
+           },
+           {
+            "ID": 148,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993304000953195929A15172106351D7686101454324750759",
+            "StatTrak": false
+           },
+           {
+            "ID": 149,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548535204279113A15181348512D5225444972182708033",
+            "StatTrak": false
+           },
+           {
+            "ID": 150,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.20f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497736226A15159196955D9721668834500367171",
+            "StatTrak": false
+           },
+           {
+            "ID": 151,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.08f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674100664A15159292015D9263487610696711593",
+            "StatTrak": true
+           },
+           {
+            "ID": 152,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.07f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674440843037894A15180219943D14330463645229194179",
+            "StatTrak": true
+           },
+           {
+            "ID": 153,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1993304000953195929A15172106351D7686101454324750759",
+            "StatTrak": true
+           },
+           {
+            "ID": 154,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.22f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548535204279113A15181348512D5225444972182708033",
+            "StatTrak": true
+           },
+           {
+            "ID": 155,
+            "Name": "Sawed-Off | Black Sand",
+            "Price": "0.78f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1989925878497736226A15159196955D9721668834500367171",
+            "StatTrak": true
+           },
+           {
+            "ID": 156,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674440842255254A15179766568D10088626132621107889",
+            "StatTrak": false
+           },
+           {
+            "ID": 157,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.05f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850469650A15179287448D148133373961708093",
+            "StatTrak": false
+           },
+           {
+            "ID": 158,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548535204384613A15181451528D11540628536867565297",
+            "StatTrak": false
+           },
+           {
+            "ID": 159,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991051936897287357A15159266526D7674881494324668471",
+            "StatTrak": false
+           },
+           {
+            "ID": 160,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.19f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674171204A15159401903D3092473640856079389",
+            "StatTrak": false
+           },
+           {
+            "ID": 161,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.10f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674440842255254A15179766568D10088626132621107889",
+            "StatTrak": true
+           },
+           {
+            "ID": 162,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.15f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983170839850469650A15179287448D148133373961708093",
+            "StatTrak": true
+           },
+           {
+            "ID": 163,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1986548535204384613A15181451528D11540628536867565297",
+            "StatTrak": true
+           },
+           {
+            "ID": 164,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.23f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1991051936897287357A15159266526D7674881494324668471",
+            "StatTrak": true
+           },
+           {
+            "ID": 165,
+            "Name": "Nova | Wood Fired",
+            "Price": "0.60f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1987674078674171204A15159401903D3092473640856079389",
+            "StatTrak": true
+           },
+           {
+            "ID": 166,
+            "Name": "Talon Knife | Slaughter",
+            "Price": "828.47f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1978655463768266294A14698019167D14719527329974637139",
+            "StatTrak": false
+           },
+           {
+            "ID": 167,
+            "Name": "Talon Knife | Slaughter",
+            "Price": "799.37f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1978656098161589841A14726314380D5623527768846949595",
+            "StatTrak": false
+           },
+           {
+            "ID": 168,
+            "Name": "Talon Knife | Slaughter",
+            "Price": "1195.59f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1975277764044161561A14702751549D7065844438316666997",
+            "StatTrak": false
+           },
+           {
+            "ID": 169,
+            "Name": "Talon Knife | Slaughter",
+            "Price": "1126.01f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1978656098161589841A14726314380D5623527768846949595",
+            "StatTrak": true
+           },
+           {
+            "ID": 170,
+            "Name": "Talon Knife | Slaughter",
+            "Price": "1291.24f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1975277764044161561A14702751549D7065844438316666997",
+            "StatTrak": true
+           },
+           {
+            "ID": 171,
+            "Name": "Stiletto Knife | Fade",
+            "Price": "1347.76f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984284963311973719A14710199056D16429378239243261596",
+            "StatTrak": false
+           },
+           {
+            "ID": 172,
+            "Name": "Stiletto Knife | Fade",
+            "Price": "1204.39f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984284963311973719A14710199056D16429378239243261596",
+            "StatTrak": true
+           },
+           {
+            "ID": 173,
+            "Name": "Navaja Knife | Urban Masked",
+            "Price": "114.34f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984285597691813126A14713904533D14169699883482616552",
+            "StatTrak": false
+           },
+           {
+            "ID": 174,
+            "Name": "Navaja Knife | Urban Masked",
+            "Price": "110.04f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1974151864137744260A14701196983D7813258212064556174",
+            "StatTrak": false
+           },
+           {
+            "ID": 175,
+            "Name": "Navaja Knife | Urban Masked",
+            "Price": "103.22f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1980907263594951006A14710941332D5674573566730336902",
+            "StatTrak": false
+           },
+           {
+            "ID": 176,
+            "Name": "Navaja Knife | Urban Masked",
+            "Price": "119.20f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1977529563852186133A14697978175D4821220894763029122",
+            "StatTrak": false
+           },
+           {
+            "ID": 177,
+            "Name": "Navaja Knife | Urban Masked",
+            "Price": "106.55f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1984285597691813126A14713904533D14169699883482616552",
+            "StatTrak": true
+           },
+           {
+            "ID": 178,
+            "Name": "Navaja Knife | Urban Masked",
+            "Price": "107.79f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1980907263594951006A14710941332D5674573566730336902",
+            "StatTrak": true
+           },
+           {
+            "ID": 179,
+            "Name": "Ursus Knife | Boreal Forest",
+            "Price": "150.38f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1978655463784281944A14707305539D634664877793403349",
+            "StatTrak": false
+           },
+           {
+            "ID": 180,
+            "Name": "Ursus Knife | Boreal Forest",
+            "Price": "169.06f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1982033163508731157A14713121643D12551223028568050557",
+            "StatTrak": false
+           },
+           {
+            "ID": 181,
+            "Name": "Ursus Knife | Boreal Forest",
+            "Price": "165.05f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1979781363689311755A14707485038D16771653763015380255",
+            "StatTrak": false
+           },
+           {
+            "ID": 182,
+            "Name": "Ursus Knife | Boreal Forest",
+            "Price": "242.05f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1975277764059964551A14704979462D16351459834773906393",
+            "StatTrak": false
+           },
+           {
+            "ID": 183,
+            "Name": "Ursus Knife | Boreal Forest",
+            "Price": "165.01",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1978655463784281944A14707305539D634664877793403349",
+            "StatTrak": true
+           },
+           {
+            "ID": 184,
+            "Name": "Ursus Knife | Boreal Forest",
+            "Price": "204.79f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1979781363689311755A14707485038D16771653763015380255",
+            "StatTrak": true
+           },
+           {
+            "ID": 185,
+            "Name": "Ursus Knife | Boreal Forest",
+            "Price": "213.16f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Danger_Zone_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1975277764059964551A14704979462D16351459834773906393",
+            "StatTrak": true
+           }
+       ]
+}

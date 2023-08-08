@@ -1,0 +1,1984 @@
+{
+    "Case":[
+        {
+            "ID": 0,
+            "Name": "AK-47 | Nightwish",
+            "Price": "7.14f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3555030120138050167A24661215825D12108635738036396447",
+            "StatTrak": false
+           },
+           {
+            "ID": 1,
+            "Name": "AK-47 | Nightwish",
+            "Price": "12.76f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219298952616A24660767757D7954029881244314965",
+            "StatTrak": false
+           },
+           {
+            "ID": 2,
+            "Name": "AK-47 | Nightwish",
+            "Price": "18.39f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020043498168A24660406636D16898294075133184409",
+            "StatTrak": false
+           },
+           {
+            "ID": 3,
+            "Name": "AK-47 | Nightwish",
+            "Price": "42.62f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820787819860A24660244778D1010638656654461821",
+            "StatTrak": false
+           },
+           {
+            "ID": 4,
+            "Name": "AK-47 | Nightwish",
+            "Price": "135.94f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220232745466A24661367395D472319463197533629",
+            "StatTrak": false
+           },
+           {
+            "ID": 5,
+            "Name": "AK-47 | Nightwish",
+            "Price": "19.02f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3555030120138050167A24661215825D12108635738036396447",
+            "StatTrak": true
+           },
+           {
+            "ID": 6,
+            "Name": "AK-47 | Nightwish",
+            "Price": "27.99f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219298952616A24660767757D7954029881244314965",
+            "StatTrak": true
+           },
+           {
+            "ID": 7,
+            "Name": "AK-47 | Nightwish",
+            "Price": "40.09f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020043498168A24660406636D16898294075133184409",
+            "StatTrak": true
+           },
+           {
+            "ID": 8,
+            "Name": "AK-47 | Nightwish",
+            "Price": "94.79f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820787819860A24660244778D1010638656654461821",
+            "StatTrak": true
+           },
+           {
+            "ID": 9,
+            "Name": "AK-47 | Nightwish",
+            "Price": "299.11f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220232745466A24661367395D472319463197533629",
+            "StatTrak": true
+           },
+           {
+            "ID": 10,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "2.45f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412976724A24656266760D12271370277823767294",
+            "StatTrak": false
+           },
+           {
+            "ID": 11,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "4.32f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319395656815A24661108246D14726988652015666840",
+            "StatTrak": false
+           },
+           {
+            "ID": 12,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "4.15f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319392046675A24656275832D11676218386728233110",
+            "StatTrak": false
+           },
+           {
+            "ID": 13,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "10.79f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3567415019117669258A24665412000D14753863180442460818",
+            "StatTrak": false
+           },
+           {
+            "ID": 14,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "27.80f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3568540919020620139A24660638947D14306990637629360242",
+            "StatTrak": false
+           },
+           {
+            "ID": 15,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "6.13f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412976724A24656266760D12271370277823767294",
+            "StatTrak": true
+           },
+           {
+            "ID": 16,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "10.18f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319395656815A24661108246D14726988652015666840",
+            "StatTrak": true
+           },
+           {
+            "ID": 17,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "9.40f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319392046675A24656275832D11676218386728233110",
+            "StatTrak": true
+           },
+           {
+            "ID": 18,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "26.23f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3567415019117669258A24665412000D14753863180442460818",
+            "StatTrak": true
+           },
+           {
+            "ID": 19,
+            "Name": "MP9 | Starlight Protector",
+            "Price": "72.32f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3568540919020620139A24660638947D14306990637629360242",
+            "StatTrak": true
+           },
+           {
+            "ID": 20,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "1.01f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219298886996A24660709398D12116594836820202040",
+            "StatTrak": false
+           },
+           {
+            "ID": 21,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "1.25f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219295637336A24656244036D17005742158849810070",
+            "StatTrak": false
+           },
+           {
+            "ID": 22,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "1.67f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320323867345A24661291937D14009692037809609946",
+            "StatTrak": false
+           },
+           {
+            "ID": 23,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "3.67f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3560659619673528972A24656243006D12423888510145303164",
+            "StatTrak": false
+           },
+           {
+            "ID": 24,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "10.22f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3548274720694870561A24661386076D7521084084637327038",
+            "StatTrak": false
+           },
+           {
+            "ID": 25,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "1.97f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219298886996A24660709398D12116594836820202040",
+            "StatTrak": true
+           },
+           {
+            "ID": 26,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "2.45f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219295637336A24656244036D17005742158849810070",
+            "StatTrak": true
+           },
+           {
+            "ID": 27,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "3.25f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320323867345A24661291937D14009692037809609946",
+            "StatTrak": true
+           },
+           {
+            "ID": 28,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "7.59f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3560659619673528972A24656243006D12423888510145303164",
+            "StatTrak": true
+           },
+           {
+            "ID": 29,
+            "Name": "FAMAS | Rapid Eye Movement",
+            "Price": "24.85f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3548274720694870561A24661386076D7521084084637327038",
+            "StatTrak": true
+           },
+           {
+            "ID": 30,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "1.09f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820788378560A24660967823D11721920052491218518",
+            "StatTrak": false
+           },
+           {
+            "ID": 31,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "1.15f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819858457370A24661197284D12452072969270765776",
+            "StatTrak": false
+           },
+           {
+            "ID": 32,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "1.58f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3560659619673596612A24656316951D2639331485306202198",
+            "StatTrak": false
+           },
+           {
+            "ID": 33,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "3.64f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819858447970A24661186281D14907704958585192474",
+            "StatTrak": false
+           },
+           {
+            "ID": 34,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "9.58f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219299248356A24661287928D7791406226284128860",
+            "StatTrak": false
+           },
+           {
+            "ID": 35,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "1.82f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820788378560A24660967823D11721920052491218518",
+            "StatTrak": true
+           },
+           {
+            "ID": 36,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "2.45f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819858457370A24661197284D12452072969270765776",
+            "StatTrak": true
+           },
+           {
+            "ID": 37,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "3.28f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3560659619673596612A24656316951D2639331485306202198",
+            "StatTrak": true
+           },
+           {
+            "ID": 38,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "7.77f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819858447970A24661186281D14907704958585192474",
+            "StatTrak": true
+           },
+           {
+            "ID": 39,
+            "Name": "Dual Berettas | Melondrama",
+            "Price": "22.60f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219299248356A24661287928D7791406226284128860",
+            "StatTrak": true
+           },
+           {
+            "ID": 40,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "1.08f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412900804A24656145619D12258803580297994281",
+            "StatTrak": false
+           },
+           {
+            "ID": 41,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "1.20f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3555030120138151847A24661344271D7415403614970367723",
+            "StatTrak": false
+           },
+           {
+            "ID": 42,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "1.54f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412840684A24656091134D21583443024076963",
+            "StatTrak": false
+           },
+           {
+            "ID": 43,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "3.65f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3568540919017073799A24656109468D4956990548644728355",
+            "StatTrak": false
+           },
+           {
+            "ID": 44,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "10.18f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219299257236A24661284158D436297245770180203",
+            "StatTrak": false
+           },
+           {
+            "ID": 45,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "1.88f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412900804A24656145619D12258803580297994281",
+            "StatTrak": true
+           },
+           {
+            "ID": 46,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "2.55f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3555030120138151847A24661344271D7415403614970367723",
+            "StatTrak": true
+           },
+           {
+            "ID": 47,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "3.20f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412840684A24656091134D21583443024076963",
+            "StatTrak": true
+           },
+           {
+            "ID": 48,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "7.86f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3568540919017073799A24656109468D4956990548644728355",
+            "StatTrak": true
+           },
+           {
+            "ID": 49,
+            "Name": "MP7 | Abyssal Apparition",
+            "Price": "21.69f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3565163219299257236A24661284158D436297245770180203",
+            "StatTrak": true
+           },
+           {
+            "ID": 50,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "1.80f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320323901325A24661333797D2892650899953924524",
+            "StatTrak": false
+           },
+           {
+            "ID": 51,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "1.02f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3568540919017201119A24656227021D5064937895601577316",
+            "StatTrak": false
+           },
+           {
+            "ID": 52,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "0.49f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3562911419490095054A24661276016D6939062731653469546",
+            "StatTrak": false
+           },
+           {
+            "ID": 53,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "0.69f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320323911405A24661352560D12170000409694638848",
+            "StatTrak": false
+           },
+           {
+            "ID": 54,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "1.49f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3562911419486638774A24656229274D11854158437262114088",
+            "StatTrak": false
+           },
+           {
+            "ID": 55,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "6.37f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320323901325A24661333797D2892650899953924524",
+            "StatTrak": true
+           },
+           {
+            "ID": 56,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "4.12f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3568540919017201119A24656227021D5064937895601577316",
+            "StatTrak": true
+           },
+           {
+            "ID": 57,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "2.43f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3562911419490095054A24661276016D6939062731653469546",
+            "StatTrak": true
+           },
+           {
+            "ID": 58,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "2.97f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320323911405A24661352560D12170000409694638848",
+            "StatTrak": true
+           },
+           {
+            "ID": 59,
+            "Name": "M4A1-S | Night Terror",
+            "Price": "6.41f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3562911419486638774A24656229274D11854158437262114088",
+            "StatTrak": true
+           },
+           {
+            "ID": 60,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "0.22f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412980804A24656271634D14882325704241386791",
+            "StatTrak": false
+           },
+           {
+            "ID": 61,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "0.66f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3549400620598561422A24656297612D7665204503914853797",
+            "StatTrak": false
+           },
+           {
+            "ID": 62,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "0.38f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3561785519578881133A24656118722D2351512763357011207",
+            "StatTrak": false
+           },
+           {
+            "ID": 63,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "0.77f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520506953783A24656209783D9673992345661307369",
+            "StatTrak": false
+           },
+           {
+            "ID": 64,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "1.65f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220228481106A24656240670D9533817092539546913",
+            "StatTrak": false
+           },
+           {
+            "ID": 65,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "1.17f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412980804A24656271634D14882325704241386791",
+            "StatTrak": true
+           },
+           {
+            "ID": 66,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "2.38f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3549400620598561422A24656297612D7665204503914853797",
+            "StatTrak": true
+           },
+           {
+            "ID": 67,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "1.45f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3561785519578881133A24656118722D2351512763357011207",
+            "StatTrak": true
+           },
+           {
+            "ID": 68,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "3.44f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520506953783A24656209783D9673992345661307369",
+            "StatTrak": true
+           },
+           {
+            "ID": 69,
+            "Name": "USP-S | Ticket to Hell",
+            "Price": "9.01f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220228481106A24656240670D9533817092539546913",
+            "StatTrak": true
+           },
+           {
+            "ID": 70,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "0.20f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3566289119202868797A24656281949D14188696498661611188",
+            "StatTrak": false
+           },
+           {
+            "ID": 71,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "0.23f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020040542588A24656241565D11864352976408631312",
+            "StatTrak": false
+           },
+           {
+            "ID": 72,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "0.26f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412972504A24656261402D11863761861730325754",
+            "StatTrak": false
+           },
+           {
+            "ID": 73,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "0.55f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3557281919951082649A24660935249D16907289273751942384",
+            "StatTrak": false
+           },
+           {
+            "ID": 74,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "1.15f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319391901575A24656096297D9386322718893240948",
+            "StatTrak": false
+           },
+           {
+            "ID": 75,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "0.31f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3566289119202868797A24656281949D14188696498661611188",
+            "StatTrak": true
+           },
+           {
+            "ID": 76,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "0.55f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020040542588A24656241565D11864352976408631312",
+            "StatTrak": true
+           },
+           {
+            "ID": 77,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "0.40f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412972504A24656261402D11863761861730325754",
+            "StatTrak": true
+           },
+           {
+            "ID": 78,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "1.29f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3557281919951082649A24660935249D16907289273751942384",
+            "StatTrak": true
+           },
+           {
+            "ID": 79,
+            "Name": "PP-Bizon | Space Cat",
+            "Price": "2.80f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319391901575A24656096297D9386322718893240948",
+            "StatTrak": true
+           },
+           {
+            "ID": 80,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "0.18f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3566289119206214457A24661205867D7416424210402530933",
+            "StatTrak": false
+           },
+           {
+            "ID": 81,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "0.19f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820784561960A24656274456D5098900137221321847",
+            "StatTrak": false
+           },
+           {
+            "ID": 82,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "0.24f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520506990883A24656265256D9712272504338257489",
+            "StatTrak": false
+           },
+           {
+            "ID": 83,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "0.50f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3566289119202735517A24656136811D2749459044004984437",
+            "StatTrak": false
+           },
+           {
+            "ID": 84,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "1.21f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020040526828A24656227320D2460309592998056639",
+            "StatTrak": false
+           },
+           {
+            "ID": 85,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "0.29f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3566289119206214457A24661205867D7416424210402530933",
+            "StatTrak": true
+           },
+           {
+            "ID": 86,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "0.33f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820784561960A24656274456D5098900137221321847",
+            "StatTrak": true
+           },
+           {
+            "ID": 87,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "0.38f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520506990883A24656265256D9712272504338257489",
+            "StatTrak": true
+           },
+           {
+            "ID": 88,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "0.93f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3566289119202735517A24656136811D2749459044004984437",
+            "StatTrak": true
+           },
+           {
+            "ID": 89,
+            "Name": "G3SG1 | Dream Glade",
+            "Price": "3.25f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020040526828A24656227320D2460309592998056639",
+            "StatTrak": true
+           },
+           {
+            "ID": 90,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "0.23f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3548274720691100441A24656156451D6982457809795387621",
+            "StatTrak": false
+           },
+           {
+            "ID": 91,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "0.23f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319392010595A24656220459D14009585764750308993",
+            "StatTrak": false
+           },
+           {
+            "ID": 92,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "0.23f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3549400620598503362A24656235597D2343105896476906629",
+            "StatTrak": false
+           },
+           {
+            "ID": 93,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "0.49f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820788487660A24660535416D2921851564973701833",
+            "StatTrak": false
+           },
+           {
+            "ID": 94,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "1.11f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3567415019114287338A24661241133D2801315979788768355",
+            "StatTrak": false
+           },
+           {
+            "ID": 95,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "0.34f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3548274720691100441A24656156451D6982457809795387621",
+            "StatTrak": true
+           },
+           {
+            "ID": 96,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "0.38f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319392010595A24656220459D14009585764750308993",
+            "StatTrak": true
+           },
+           {
+            "ID": 97,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "0.39f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3549400620598503362A24656235597D2343105896476906629",
+            "StatTrak": true
+           },
+           {
+            "ID": 98,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "0.95f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820788487660A24660535416D2921851564973701833",
+            "StatTrak": true
+           },
+           {
+            "ID": 99,
+            "Name": "XM1014 | Zombie Offensive",
+            "Price": "2.56f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3567415019114287338A24661241133D2801315979788768355",
+            "StatTrak": true
+           },
+           {
+            "ID": 100,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320320177505A24656235534D17052500136435805393",
+            "StatTrak": false
+           },
+           {
+            "ID": 101,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "0.04f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3555030120134248007A24656219489D180251738891256447",
+            "StatTrak": false
+           },
+           {
+            "ID": 102,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319392000735A24656211799D5497349922730961023",
+            "StatTrak": false
+           },
+           {
+            "ID": 103,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "0.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319391979535A24656186161D3371520791803125823",
+            "StatTrak": false
+           },
+           {
+            "ID": 104,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "0.27f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3560659619673545872A24656270871D5686930200183571679",
+            "StatTrak": false
+           },
+           {
+            "ID": 105,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "0.15f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320320177505A24656235534D17052500136435805393",
+            "StatTrak": true
+           },
+           {
+            "ID": 106,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "0.11f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3555030120134248007A24656219489D180251738891256447",
+            "StatTrak": true
+           },
+           {
+            "ID": 107,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "0.11f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319392000735A24656211799D5497349922730961023",
+            "StatTrak": true
+           },
+           {
+            "ID": 108,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "0.28f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3564037319391979535A24656186161D3371520791803125823",
+            "StatTrak": true
+           },
+           {
+            "ID": 109,
+            "Name": "Five-SeveN | Scrawl",
+            "Price": "1.40f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3560659619673545872A24656270871D5686930200183571679",
+            "StatTrak": true
+           },
+           {
+            "ID": 110,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819854963890A24656283954D4939479222357656129",
+            "StatTrak": false
+           },
+           {
+            "ID": 111,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "0.04f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220228494826A24656257173D4899987316380631557",
+            "StatTrak": false
+           },
+           {
+            "ID": 112,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3559533719763958931A24656264127D7974940949185793219",
+            "StatTrak": false
+           },
+           {
+            "ID": 113,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "0.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520506966703A24656227928D16160303647979553807",
+            "StatTrak": false
+           },
+           {
+            "ID": 114,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "0.32f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520510912803A24661315582D11586111116323266701",
+            "StatTrak": false
+           },
+           {
+            "ID": 115,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "0.15f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819854963890A24656283954D4939479222357656129",
+            "StatTrak": true
+           },
+           {
+            "ID": 116,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "0.11f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220228494826A24656257173D4899987316380631557",
+            "StatTrak": true
+           },
+           {
+            "ID": 117,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "0.11f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3559533719763958931A24656264127D7974940949185793219",
+            "StatTrak": true
+           },
+           {
+            "ID": 118,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "0.32f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520506966703A24656227928D16160303647979553807",
+            "StatTrak": true
+           },
+           {
+            "ID": 119,
+            "Name": "MAC-10 | Ensnared",
+            "Price": "1.32f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520510912803A24661315582D11586111116323266701",
+            "StatTrak": true
+           },
+           {
+            "ID": 120,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3568540919017130999A24656168168D16286823912042504603",
+            "StatTrak": false
+           },
+           {
+            "ID": 121,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "0.05f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819854940530A24656265927D12271970792956579159",
+            "StatTrak": false
+           },
+           {
+            "ID": 122,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3567415019110520358A24656298430D7981540331754205045",
+            "StatTrak": false
+           },
+           {
+            "ID": 123,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "0.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412966504A24656250742D14584485757047113137",
+            "StatTrak": false
+           },
+           {
+            "ID": 124,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "0.23f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3561785519578801813A24656150621D724692658081458997",
+            "StatTrak": false
+           },
+           {
+            "ID": 125,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "0.16f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3568540919017130999A24656168168D16286823912042504603",
+            "StatTrak": true
+           },
+           {
+            "ID": 126,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "0.11f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819854940530A24656265927D12271970792956579159",
+            "StatTrak": true
+           },
+           {
+            "ID": 127,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3567415019110520358A24656298430D7981540331754205045",
+            "StatTrak": true
+           },
+           {
+            "ID": 128,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "0.26f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412966504A24656250742D14584485757047113137",
+            "StatTrak": true
+           },
+           {
+            "ID": 129,
+            "Name": "MP5-SD | Necro Jr.",
+            "Price": "1.05f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3561785519578801813A24656150621D724692658081458997",
+            "StatTrak": true
+           },
+           {
+            "ID": 130,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3562911419490170134A24661417316D7830073704783633667",
+            "StatTrak": false
+           },
+           {
+            "ID": 131,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.04f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412975264A24656261769D14847278142323793323",
+            "StatTrak": false
+           },
+           {
+            "ID": 132,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3549400620598492502A24656228413D5379064058094106561",
+            "StatTrak": false
+           },
+           {
+            "ID": 133,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820784468240A24656156698D16907078479867654981",
+            "StatTrak": false
+           },
+           {
+            "ID": 134,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.19f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320320170145A24656226510D11963362437740175173",
+            "StatTrak": false
+           },
+           {
+            "ID": 135,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.16f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3562911419490170134A24661417316D7830073704783633667",
+            "StatTrak": true
+           },
+           {
+            "ID": 136,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.11f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412975264A24656261769D14847278142323793323",
+            "StatTrak": true
+           },
+           {
+            "ID": 137,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.09f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3549400620598492502A24656228413D5379064058094106561",
+            "StatTrak": true
+           },
+           {
+            "ID": 138,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.23f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820784468240A24656156698D16907078479867654981",
+            "StatTrak": true
+           },
+           {
+            "ID": 139,
+            "Name": "Sawed-Off | Spirit Board",
+            "Price": "0.69f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320320170145A24656226510D11963362437740175173",
+            "StatTrak": true
+           },
+           {
+            "ID": 140,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819854922430A24656238540D460745986700668456",
+            "StatTrak": false
+           },
+           {
+            "ID": 141,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.04f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220228540386A24656284872D3228705734887612554",
+            "StatTrak": false
+           },
+           {
+            "ID": 142,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3561785519578895593A24656257414D11721331082358161612",
+            "StatTrak": false
+           },
+           {
+            "ID": 143,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020040527968A24656217685D14180197705594087118",
+            "StatTrak": false
+           },
+           {
+            "ID": 144,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.18f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412871144A24656121435D1021444713113895460",
+            "StatTrak": false
+           },
+           {
+            "ID": 145,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.16f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3558407819854922430A24656238540D460745986700668456",
+            "StatTrak": true
+           },
+           {
+            "ID": 146,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.11f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220228540386A24656284872D3228705734887612554",
+            "StatTrak": true
+           },
+           {
+            "ID": 147,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3561785519578895593A24656257414D11721331082358161612",
+            "StatTrak": true
+           },
+           {
+            "ID": 148,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.24f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020040527968A24656217685D14180197705594087118",
+            "StatTrak": true
+           },
+           {
+            "ID": 149,
+            "Name": "P2000 | Lifted Spirits",
+            "Price": "0.84f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3551652420412871144A24656121435D1021444713113895460",
+            "StatTrak": true
+           },
+           {
+            "ID": 150,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520507023303A24656122455D10288721996984247610",
+            "StatTrak": false
+           },
+           {
+            "ID": 151,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.04f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3560659619673593172A24656309548D2616039630039451508",
+            "StatTrak": false
+           },
+           {
+            "ID": 152,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.04f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820784557040A24656265955D597339147255451632",
+            "StatTrak": false
+           },
+           {
+            "ID": 153,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220228475926A24656232510D12153753233373064084",
+            "StatTrak": false
+           },
+           {
+            "ID": 154,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.17f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820788523240A24661108077D6972316223175844180",
+            "StatTrak": false
+           },
+           {
+            "ID": 155,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.15f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520507023303A24656122455D10288721996984247610",
+            "StatTrak": true
+           },
+           {
+            "ID": 156,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.12f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3560659619673593172A24656309548D2616039630039451508",
+            "StatTrak": true
+           },
+           {
+            "ID": 157,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.09f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820784557040A24656265955D597339147255451632",
+            "StatTrak": true
+           },
+           {
+            "ID": 158,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.27f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3553904220228475926A24656232510D12153753233373064084",
+            "StatTrak": true
+           },
+           {
+            "ID": 159,
+            "Name": "SCAR-20 | Poultrygeist",
+            "Price": "0.55f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3547148820788523240A24661108077D6972316223175844180",
+            "StatTrak": true
+           },
+           {
+            "ID": 160,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.04f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520507041683A24656310333D3083315243209715735",
+            "StatTrak": false
+           },
+           {
+            "ID": 161,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.05f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320320250065A24656312509D2948743817112959227",
+            "StatTrak": false
+           },
+           {
+            "ID": 162,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.05f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3555030120134241167A24656210299D5388080204827169883",
+            "StatTrak": false
+           },
+           {
+            "ID": 163,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.08f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3567415019110426858A24656203995D16720915853987656281",
+            "StatTrak": false
+           },
+           {
+            "ID": 164,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.16f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020040552528A24656262328D7252144150832582805",
+            "StatTrak": false
+           },
+           {
+            "ID": 165,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.15f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3550526520507041683A24656310333D3083315243209715735",
+            "StatTrak": true
+           },
+           {
+            "ID": 166,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.12f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3552778320320250065A24656312509D2948743817112959227",
+            "StatTrak": true
+           },
+           {
+            "ID": 167,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.09f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3555030120134241167A24656210299D5388080204827169883",
+            "StatTrak": true
+           },
+           {
+            "ID": 168,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.26f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3567415019110426858A24656203995D16720915853987656281",
+            "StatTrak": true
+           },
+           {
+            "ID": 169,
+            "Name": "MAG-7 | Foresight",
+            "Price": "0.55f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3556156020040552528A24656262328D7252144150832582805",
+            "StatTrak": true
+           },
+           {
+            "ID": 170,
+            "Name": "Bowie Knife | Gamma Doppler",
+            "Price": "547.73f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358957588119A23418162892D4946268089163352310",
+            "StatTrak": false
+           },
+           {
+            "ID": 171,
+            "Name": "Bowie Knife | Gamma Doppler",
+            "Price": "500.14f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059602080792A23394349277D9964828333873228414",
+            "StatTrak": false
+           },
+           {
+            "ID": 172,
+            "Name": "Bowie Knife | Gamma Doppler",
+            "Price": "1159.67f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358957588119A23418162892D4946268089163352310",
+            "StatTrak": true
+           },
+           {
+            "ID": 173,
+            "Name": "Bowie Knife | Gamma Doppler",
+            "Price": "661.67f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059602080792A23394349277D9964828333873228414",
+            "StatTrak": true
+           },
+           {
+            "ID": 174,
+            "Name": "Butterfly Knife | Black Laminate",
+            "Price": "1279.00f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302817759332981635A23417444954D7692370886764421147",
+            "StatTrak": false
+           },
+           {
+            "ID": 175,
+            "Name": "Butterfly Knife | Black Laminate",
+            "Price": "1668.27f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960445914983A23407705412D1027430655195513595",
+            "StatTrak": false
+           },
+           {
+            "ID": 176,
+            "Name": "Butterfly Knife | Black Laminate",
+            "Price": "1668.27f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059601987132A23394428845D17171887530835886205",
+            "StatTrak": false
+           },
+           {
+            "ID": 177,
+            "Name": "Butterfly Knife | Black Laminate",
+            "Price": "1314.22f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960445914983A23407705412D1027430655195513595",
+            "StatTrak": true
+           },
+           {
+            "ID": 178,
+            "Name": "Butterfly Knife | Black Laminate",
+            "Price": "1436.56f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059601987132A23394428845D17171887530835886205",
+            "StatTrak": true
+           },
+           {
+            "ID": 179,
+            "Name": "Huntsman Knife | Gamma Doppler",
+            "Price": "560.15f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3296062359882272469A23403672209D290097500739727783",
+            "StatTrak": false
+           },
+           {
+            "ID": 180,
+            "Name": "Huntsman Knife | Gamma Doppler",
+            "Price": "596.18f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559133030257A23393944386D5477516720282632131",
+            "StatTrak": false
+           },
+           {
+            "ID": 181,
+            "Name": "Huntsman Knife | Gamma Doppler",
+            "Price": "739.54f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559133030257A23393944386D5477516720282632131",
+            "StatTrak": true
+           },
+           {
+            "ID": 182,
+            "Name": "Shadow Daggers | Bright Water",
+            "Price": "121.61f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3293810560099071627A23452743331D9258544612796200",
+            "StatTrak": false
+           },
+           {
+            "ID": 183,
+            "Name": "Shadow Daggers | Bright Water",
+            "Price": "154.72f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559139134097A23408151252D7991189455271160206",
+            "StatTrak": false
+           },
+           {
+            "ID": 184,
+            "Name": "Shadow Daggers | Bright Water",
+            "Price": "125.49f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3296062359876320569A23394525633D14178574482254235400",
+            "StatTrak": false
+           },
+           {
+            "ID": 185,
+            "Name": "Shadow Daggers | Bright Water",
+            "Price": "128.34f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059603328792A23398013604D14884059073613718404",
+            "StatTrak": false
+           },
+           {
+            "ID": 186,
+            "Name": "Shadow Daggers | Bright Water",
+            "Price": "151.29f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302817759327675815A23405299563D468451430913952556",
+            "StatTrak": false
+           },
+           {
+            "ID": 187,
+            "Name": "Shadow Daggers | Bright Water",
+            "Price": "140.70f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3296062359876320569A23394525633D14178574482254235400",
+            "StatTrak": true
+           },
+           {
+            "ID": 188,
+            "Name": "Shadow Daggers | Bright Water",
+            "Price": "185.36f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059603328792A23398013604D14884059073613718404",
+            "StatTrak": true
+           },
+           {
+            "ID": 189,
+            "Name": "Shadow Daggers | Bright Water",
+            "Price": "189.21f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302817759327675815A23405299563D468451430913952556",
+            "StatTrak": true
+           },
+           {
+            "ID": 190,
+            "Name": "Bowie Knife | Freehand",
+            "Price": "171.42f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3293810560108161527A23431715786D2603261302061549232",
+            "StatTrak": false
+           },
+           {
+            "ID": 191,
+            "Name": "Bowie Knife | Freehand",
+            "Price": "196.34f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3293810560068676187A23407117291D4800916617272518328",
+            "StatTrak": false
+           },
+           {
+            "ID": 192,
+            "Name": "Bowie Knife | Freehand",
+            "Price": "204.05f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3296062359876131189A23394189805D12585913978378692212",
+            "StatTrak": false
+           },
+           {
+            "ID": 193,
+            "Name": "Bowie Knife | Freehand",
+            "Price": "230.06f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960440153943A23393421261D9424000980338798332",
+            "StatTrak": false
+           },
+           {
+            "ID": 194,
+            "Name": "Bowie Knife | Freehand",
+            "Price": "271.41f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946356119A23393348603D2622476871710802014",
+            "StatTrak": false
+           },
+           {
+            "ID": 195,
+            "Name": "Bowie Knife | Freehand",
+            "Price": "234.45f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3296062359876131189A23394189805D12585913978378692212",
+            "StatTrak": true
+           },
+           {
+            "ID": 196,
+            "Name": "Bowie Knife | Freehand",
+            "Price": "316.35f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960440153943A23393421261D9424000980338798332",
+            "StatTrak": true
+           },
+           {
+            "ID": 197,
+            "Name": "Bowie Knife | Freehand",
+            "Price": "471.63f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Dreams_and_Nightmares_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946356119A23393348603D2622476871710802014",
+            "StatTrak": true
+           }
+       ]
+}

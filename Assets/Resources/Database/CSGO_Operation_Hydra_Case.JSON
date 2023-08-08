@@ -1,0 +1,1684 @@
+{
+    "Case":[
+        {
+            "ID": 0,
+            "Name": "AWP | Oni Taiji",
+            "Price": "200.90f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3442412226876288051A20771081251D2480443869989469703",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 1,
+            "Name": "AWP | Oni Taiji",
+            "Price": "228.10f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3434530927530581404A21247478578D12575755402435671619",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 2,
+            "Name": "AWP | Oni Taiji",
+            "Price": "318.79f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M5964427883024129073A15443035555D16629190650760165455",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 3,
+            "Name": "AWP | Oni Taiji",
+            "Price": "423.14f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561277955213A21260349627D616609019060819021",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 4,
+            "Name": "AWP | Oni Taiji",
+            "Price": "553.87f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3329815067257880011A20291343379D14269909298812311145",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 5,
+            "Name": "AWP | Oni Taiji",
+            "Price": "228.00f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3455922391113615015A21065327946D6918197549682269295",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 6,
+            "Name": "AWP | Oni Taiji",
+            "Price": "455.00f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3445790104766474854A21140358958D16780483311715497135",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 7,
+            "Name": "AWP | Oni Taiji",
+            "Price": "445.44f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20S76561198276831518A21046112507D14171397287899044905",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 8,
+            "Name": "AWP | Oni Taiji",
+            "Price": "641.27f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20S76561198837863464A19109514846D16352230278376373253",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 9,
+            "Name": "AWP | Oni Taiji",
+            "Price": "990.41f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3426650261000094896A21261587818D16880697063093223055",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 10,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "18.14f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3419894861557597610A19058323057D3359867904869961437",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 11,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "21.27f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261929042106A21260828465D7669110020780486331",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 12,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "26.12f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060811625678A20133329703D337255558090985017",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 13,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "39.34f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561278251653A21260849846D14874904188014218333",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 14,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "97.22f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3425524361088404615A21254837568D4660705193787672187",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 15,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "42.34f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M6272924230540095458A21145271816D12289270902669749297",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 16,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "50.21f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561277349993A21259176614D7639312802527871219",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 17,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "64.50f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3450293526203308558A21212453769D12594002080857630233",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 18,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "120.15f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3433405027622617063A21250635072D16783240630765371509",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 19,
+            "Name": "Five-SeveN | Hyper Beast",
+            "Price": "390.00f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3435656827386497805A21156781742D14171814598676096243",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 20,
+            "Name": "M4A4 | Hellfire",
+            "Price": "37.31f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3413139462111364064A21253951483D16152169609735939786",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 21,
+            "Name": "M4A4 | Hellfire",
+            "Price": "32.50f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3433405027620197303A21071918257D199995566314210446",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 22,
+            "Name": "M4A4 | Hellfire",
+            "Price": "35.90f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3446915826511031535A21057977723D5244026625285146180",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 23,
+            "Name": "M4A4 | Hellfire",
+            "Price": "44.29f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3426650260999090556A21259613924D756831695323868846",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 24,
+            "Name": "M4A4 | Hellfire",
+            "Price": "64.72f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3416517161831709187A20498142646D11989402582363521770",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 25,
+            "Name": "M4A4 | Hellfire",
+            "Price": "47.43f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20S76561198318032399A11152116920D16892655593280588514",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 26,
+            "Name": "M4A4 | Hellfire",
+            "Price": "61.20f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20S76561198837518610A20254280666D9992588200050379846",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 27,
+            "Name": "M4A4 | Hellfire",
+            "Price": "56.43f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3132769547732219574A19066020256D5055369767709133536",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 28,
+            "Name": "M4A4 | Hellfire",
+            "Price": "86.49f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3422146661370289192A21259264492D589563498740024864",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 29,
+            "Name": "M4A4 | Hellfire",
+            "Price": "134.63f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3416517161833061007A21255727438D1064059390026294946",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 30,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "33.88f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3449167626324253157A21252927936D14872194950050918757",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 31,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "34.93f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3427776160905317277A21257700670D13835804497211209697",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 32,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "36.69f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3414265362022160025A21260398953D17070331499001190189",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 33,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "43.94f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3427776160904630777A21256994925D11979802499412139817",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 34,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "54.74f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3446915826495720775A14290929773D16746644173792410531",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 35,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "49.64f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3445790104756202834A21189617400D16199142772725964133",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 36,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "55.80f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3460425990745497539A21071980358D5641478450008464261",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 37,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "63.68f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3426650260996047556A20465079849D612646101553926507",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 38,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "71.94f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461184745014A21260144009D9281011634766486471",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 39,
+            "Name": "Galil AR | Sugar Rush",
+            "Price": "111.45f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3444660408404721944A11721975052D16350569326078082317",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 40,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "33.20f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3437908627249903427A21214080078D14709370515748439286",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 41,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "36.00f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3422146661371294772A21261355102D9234070339320309980",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 42,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "33.22f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308415552665181447A19676660791D11730298303624528958",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 43,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "41.89f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3425524361092133955A21261256558D7504266282777233524",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 44,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "61.54f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3440160427064597029A21244111467D28258034736606262",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 45,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "76.39f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M5125632213945878236A16004409359D2918445012670786680",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 46,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "54.13f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3427776160903652217A14359566530D16160253037301648632",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 47,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "61.38f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3431153227813618041A21251858781D16781081267304681076",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 48,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "73.24f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3436782727299208106A18560691475D13988783133070614582",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 49,
+            "Name": "Dual Berettas | Cobra Strike",
+            "Price": "99.05f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3416517161835802627A20394845204D5656526244803439256",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 50,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "9.71f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M2977392914760303580A13421885523D16169613858887959007",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 51,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "11.81f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461184828474A21006742516D27035369254686651",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 52,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "9.52f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561278468113A13938006680D10296576890688925019",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 53,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "11.31f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3426650261000108476A21261404618D1008890215737607955",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 54,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "18.75f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261927264666A21257507314D7388191218249114557",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 55,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "27.76f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3446913922506330925A14356470880D9289488731346325433",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 56,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "27.90f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3432279127663189182A21092213853D16466326297667587027",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 57,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "26.50f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061741533708A21256541238D7686780522913081233",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 58,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "35.17f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M2948037082075876570A10696653528D5541721983772976447",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 59,
+            "Name": "AK-47 | Orbit Mk01",
+            "Price": "55.80f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3444664026690050593A21104150966D16629579069245243705",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 60,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "5.11f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3267882520483409302A19506561522D9820108790420223566",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 61,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "5.94f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061743167228A21253321530D2639327146180271306",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 62,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "5.81f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562206160843A21256351351D14728004624876625004",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 63,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "8.44f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3413139462116534044A21261555199D9244380191558245032",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 64,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "10.25f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3408635862487254760A21178006225D7683358669412013220",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 65,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "11.80f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3324181320998358899A16194543329D6939634170678391430",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 66,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "8.59f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M2470728897400061725A16550312992D14765722363932212900",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 67,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "10.00f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3419894861554252850A13969329891D3035637721805238284",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 68,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "14.49f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3418768961649704869A21259147241D12028778730382561354",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 69,
+            "Name": "SSG 08 | Death's Head",
+            "Price": "18.34f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3450292255944674431A21009316788D6927805786485174978",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 70,
+            "Name": "P250 | Red Rock",
+            "Price": "4.95f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3413139462114486864A21259291649D10134823491312944384",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 71,
+            "Name": "P250 | Red Rock",
+            "Price": "4.64f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3446915826492296595A20916075435D7973770923273677736",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 72,
+            "Name": "P250 | Red Rock",
+            "Price": "5.78f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261929079446A21260923608D12296205953085517198",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 73,
+            "Name": "P250 | Red Rock",
+            "Price": "8.73f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3414265362019196965A21255375204D3378439162072591140",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 74,
+            "Name": "P250 | Red Rock",
+            "Price": "10.68f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562205928263A10752523326D7531335818946446126",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 75,
+            "Name": "P250 | Red Rock",
+            "Price": "9.15f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3443538126786212812A21243563005D11874526191131600130",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 76,
+            "Name": "P250 | Red Rock",
+            "Price": "6.93f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3418768961650191609A21260113364D16602217249376445824",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 77,
+            "Name": "P250 | Red Rock",
+            "Price": "9.86f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3427776160901468497A21201376625D14296160979563589408",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 78,
+            "Name": "P250 | Red Rock",
+            "Price": "14.85f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561275035873A18479429424D9259583801270879180",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 79,
+            "Name": "P250 | Red Rock",
+            "Price": "22.65f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3439034527157915828A20915562144D3084451202475771328",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 80,
+            "Name": "P90 | Death Grip",
+            "Price": "3.91f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308415552644087427A11623913213D16313808391649174065",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 81,
+            "Name": "P90 | Death Grip",
+            "Price": "4.88f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3419894861556915790A21141149422D16910540400712835639",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 82,
+            "Name": "P90 | Death Grip",
+            "Price": "4.36f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1936988922963993319A14390658212D6936327008683549715",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 83,
+            "Name": "P90 | Death Grip",
+            "Price": "8.29f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3434530927529894664A11845372781D16717965211596188731",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 84,
+            "Name": "P90 | Death Grip",
+            "Price": "11.39f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060809835398A21255748190D3056269222689751097",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 85,
+            "Name": "P90 | Death Grip",
+            "Price": "7.62f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3444661486193411622A20721954295D16333551043200372317",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 86,
+            "Name": "P90 | Death Grip",
+            "Price": "6.71f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3416517161835457127A21260115300D14187610301021284087",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 87,
+            "Name": "P90 | Death Grip",
+            "Price": "9.75f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562208194583A21260088112D3048550634418195699",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 88,
+            "Name": "P90 | Death Grip",
+            "Price": "14.56f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3421020761463322111A21259190639D7980500484168052255",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 89,
+            "Name": "P90 | Death Grip",
+            "Price": "22.95f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3440159156819206142A21013409720D11540544879356913881",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 90,
+            "Name": "P2000 | Woodsman",
+            "Price": "4.51f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060813068118A21262740268D9720112055055599328",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 91,
+            "Name": "P2000 | Woodsman",
+            "Price": "6.94f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261928881766A21260519650D9665499195428497480",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 92,
+            "Name": "P2000 | Woodsman",
+            "Price": "5.73f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3410887662298623982A21253993970D5047669181130869984",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 93,
+            "Name": "P2000 | Woodsman",
+            "Price": "9.49f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3436782905536510346A21238734190D11737088897658390628",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 94,
+            "Name": "P2000 | Woodsman",
+            "Price": "11.13f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060812323678A21261141018D9421776739095970318",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 95,
+            "Name": "P2000 | Woodsman",
+            "Price": "8.23f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3450293526218699898A21237658926D12314187796214883906",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 96,
+            "Name": "P2000 | Woodsman",
+            "Price": "9.16f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3427776160905318077A21257700614D10134867504426561026",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 97,
+            "Name": "P2000 | Woodsman",
+            "Price": "9.25f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562208529943A21257696863D1029187288839235584",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 98,
+            "Name": "P2000 | Woodsman",
+            "Price": "16.02f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060810623578A21257826596D5362287744174526086",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 99,
+            "Name": "P2000 | Woodsman",
+            "Price": "24.97f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3422146661370142912A21258964275D7638716892659206732",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 100,
+            "Name": "USP-S | Blueprint",
+            "Price": "3.95f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061743097608A21259300009D14458320923649318729",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 101,
+            "Name": "USP-S | Blueprint",
+            "Price": "6.51f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3448041726416086736A21056581134D11532844261405859781",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 102,
+            "Name": "USP-S | Blueprint",
+            "Price": "4.90f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3449166356063820910A19997652021D2749496417645748193",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 103,
+            "Name": "USP-S | Blueprint",
+            "Price": "9.80f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061742022428A21257456323D7955716942354543471",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 104,
+            "Name": "USP-S | Blueprint",
+            "Price": "34.39f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3450293526227624198A21251013908D7065207358774279043",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 105,
+            "Name": "USP-S | Blueprint",
+            "Price": "8.59f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3451419603816148559A21230871571D4929761867891556301",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 106,
+            "Name": "USP-S | Blueprint",
+            "Price": "13.37f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3444664026677968793A21222485372D607106902673921999",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 107,
+            "Name": "USP-S | Blueprint",
+            "Price": "13.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3450293526183150078A10820967439D7101090485032140577",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 108,
+            "Name": "USP-S | Blueprint",
+            "Price": "30.13f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3449167626294337177A21205604123D16901522053331228527",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 109,
+            "Name": "USP-S | Blueprint",
+            "Price": "114.26f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061743095348A21259574984D2738378259100987759",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 110,
+            "Name": "M4A1-S | Briefing",
+            "Price": "3.79f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3422146661370659872A21259938316D16747205063163320770",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 111,
+            "Name": "M4A1-S | Briefing",
+            "Price": "4.70f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3414265362018265725A12602828735D16339845376724768650",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 112,
+            "Name": "M4A1-S | Briefing",
+            "Price": "3.13f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562208449163A21193264841D12008855306317025568",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 113,
+            "Name": "M4A1-S | Briefing",
+            "Price": "4.15f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3413139462114933884A11487721825D14163518336871675206",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 114,
+            "Name": "M4A1-S | Briefing",
+            "Price": "10.04f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061742382388A21255016957D7552121435575892264",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 115,
+            "Name": "M4A1-S | Briefing",
+            "Price": "6.38f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3409761762391569921A21254880185D2614516528965440814",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 116,
+            "Name": "M4A1-S | Briefing",
+            "Price": "9.07f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3450293526187543738A21182650602D14179590215552688066",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 117,
+            "Name": "M4A1-S | Briefing",
+            "Price": "6.52f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3435656827437054725A21244809001D14171716149573286304",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 118,
+            "Name": "M4A1-S | Briefing",
+            "Price": "12.03f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3421020761463808751A21260102755D11583441182215330624",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 119,
+            "Name": "M4A1-S | Briefing",
+            "Price": "34.73f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3449167626300400497A20496666131D7405092770404054978",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 120,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "4.03f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060811108478A21258653189D5387444807277042994",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 121,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "3.48f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060812201098A21252575044D12421104003994604860",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 122,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "3.77f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3408635862483926720A21253921848D2267762699909500",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 123,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "4.17f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3435656827397176565A21177329073D721356765542972754",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 124,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "7.85f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027505560455360A21199377461D5486017720307536250",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 125,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "3.10f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3409761762390982121A20946428023D17215608450399426836",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 126,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "2.70f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4168617199496767983A10792522434D2768814398910094296",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 127,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "2.81f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4675253062680991571A19157538928D11872805989009003958",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 128,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "5.39f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3449167626320830817A11759187784D1029225136227717468",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 129,
+            "Name": "Tec-9 | Cut Out",
+            "Price": "13.93f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261925416246A21253502041D3323663684417163540",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 130,
+            "Name": "MAC-10 | Aloha",
+            "Price": "5.00f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3436782905535633586A21236407084D11857422043235476077",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 131,
+            "Name": "MAC-10 | Aloha",
+            "Price": "6.49f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3433405027624653723A20506130825D325495745910607491",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 132,
+            "Name": "MAC-10 | Aloha",
+            "Price": "4.15f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3413139462114173544A21258619623D11863267160822868615",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 133,
+            "Name": "MAC-10 | Aloha",
+            "Price": "4.33f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027505588010320A20468322577D16622233053350030053",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 134,
+            "Name": "MAC-10 | Aloha",
+            "Price": "3.09f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3419894861556462950A21258812665D14324308357971568743",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 135,
+            "Name": "MAC-10 | Aloha",
+            "Price": "2.44f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3445790104775218014A21057976551D5371926198157812967",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 136,
+            "Name": "MAC-10 | Aloha",
+            "Price": "3.13f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3434530927533217464A21252055302D10097332059650992207",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 137,
+            "Name": "MAC-10 | Aloha",
+            "Price": "4.00f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562208306123A21260305036D7251928894685684965",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 138,
+            "Name": "MAC-10 | Aloha",
+            "Price": "4.43f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3933274236363936499A18400089708D16141154255576574499",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 139,
+            "Name": "MAC-10 | Aloha",
+            "Price": "5.48f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027960719647739A21259070143D5335816191586799209",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 140,
+            "Name": "FAMAS | Macabre",
+            "Price": "4.43f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561276641053A21257892281D9378962425218495096",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 141,
+            "Name": "FAMAS | Macabre",
+            "Price": "4.57f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3414265362021485025A21258774209D6984004015674283098",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 142,
+            "Name": "FAMAS | Macabre",
+            "Price": "4.20f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562205043003A21254489132D5233893774759711800",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 143,
+            "Name": "FAMAS | Macabre",
+            "Price": "3.77f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3444664026692242473A20310970663D9828022208973954098",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 144,
+            "Name": "FAMAS | Macabre",
+            "Price": "4.49f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3419894861555987470A16342171211D3370041082150428180",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 145,
+            "Name": "FAMAS | Macabre",
+            "Price": "3.25f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3338816117362361230A19470619923D9278790595374881436",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 146,
+            "Name": "FAMAS | Macabre",
+            "Price": "4.99f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3451419603817600379A21249645641D495961695398051032",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 147,
+            "Name": "FAMAS | Macabre",
+            "Price": "3.48f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060807998318A14432586920D2892663500369966750",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 148,
+            "Name": "FAMAS | Macabre",
+            "Price": "4.73f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562208533303A21257698287D11565814260049181246",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 149,
+            "Name": "FAMAS | Macabre",
+            "Price": "5.05f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3431153227813605461A21246180292D14412765672227263194",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 150,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "4.17f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461180690934A21253411709D16324578883756323974",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 151,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "4.91f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3427776160904721097A21259527662D11873228331305235010",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 152,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "3.15f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3449167159014389009A12708089382D5534612371826217544",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 153,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "4.74f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3409761762394439901A21259356374D11712774434969948714",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 154,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "4.65f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3444662756435634946A15219778001D11709997086815802888",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 155,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "3.20f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M5963301749865768012A11022592369D4955266498931184736",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 156,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "3.39f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4199013885708025384A13609958870D14844110715101204676",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 157,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "3.77f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562208030063A21137196596D14332745974205586632",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 158,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "3.77f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061741931468A10408737053D36278268594460718",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 159,
+            "Name": "UMP-45 | Metal Flowers",
+            "Price": "5.50f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060811659038A21259776254D17024207398030382784",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 160,
+            "Name": "MAG-7 | Hard Water",
+            "Price": "4.50f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261925831766A21255037152D5252338642842401919",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 161,
+            "Name": "MAG-7 | Hard Water",
+            "Price": "3.72f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3422146661369280892A12301914146D17189257269649473267",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 162,
+            "Name": "MAG-7 | Hard Water",
+            "Price": "4.15f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561278869433A21148499155D5073916604650167035",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 163,
+            "Name": "MAG-7 | Hard Water",
+            "Price": "4.38f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3425524361090564815A20898431886D913330115893647903",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 164,
+            "Name": "MAG-7 | Hard Water",
+            "Price": "9.10f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3448041726391706656A21214718800D5516417428393164509",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 165,
+            "Name": "MAG-7 | Hard Water",
+            "Price": "3.77f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561277303553A10569768102D14277679819675245751",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 166,
+            "Name": "MAG-7 | Hard Water",
+            "Price": "3.59f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M2590074921156819044A15710083908D7524635557260425271",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 167,
+            "Name": "MAG-7 | Hard Water",
+            "Price": "4.31f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Hydra_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3124886255537204484A10773878809D13837000484009350681",
+            "StatTrak": "true"
+           }
+       ]
+    }

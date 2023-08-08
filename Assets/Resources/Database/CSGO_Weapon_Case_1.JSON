@@ -1,0 +1,874 @@
+{
+    "Case":[
+        {
+            "ID": 1,
+            "Name": "AWP | Lightning Strike",
+            "Price": "1598.85f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M633137629094364749A7011759353D3073157446789820993",
+            "StatTrak": false
+           },
+           {
+            "ID": 2,
+            "Name": "AWP | Lightning Strike",
+            "Price": "734.64f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M628634029467888445A6995083397D6983640911094414019",
+            "StatTrak": false
+           },
+           {
+            "ID": 3,
+            "Name": "AWP | Lightning Strike",
+            "Price": "2779.69f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M633137629094364749A7011759353D3073157446789820993",
+            "StatTrak": true
+           },
+           {
+            "ID": 4,
+            "Name": "AWP | Lightning Strike",
+            "Price": "1253.09f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M628634029467888445A6995083397D6983640911094414019",
+            "StatTrak": true
+           },
+           {
+            "ID": 5,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "334.50f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929375826876A7012479526D14736421066891857887",
+            "StatTrak": true
+           },
+           {
+            "ID": 6,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "407.82f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534593430253A7012038755D7533024791143051057",
+            "StatTrak": true
+           },
+           {
+            "ID": 7,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "478.40f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M191784865620725740A7011307338D7253199383060414973",
+            "StatTrak": true
+           },
+           {
+            "ID": 8,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "690.23f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534593807143A7012554793D7110663058759938005",
+            "StatTrak": true
+           },
+           {
+            "ID": 9,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "1001.68f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M638766174034441109A6875062807D2334239704251138363",
+            "StatTrak": true
+           },
+           {
+            "ID": 10,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "179.04f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929375826876A7012479526D14736421066891857887",
+            "StatTrak": false
+           },
+           {
+            "ID": 11,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "209.96f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534593430253A7012038755D7533024791143051057",
+            "StatTrak": false
+           },
+           {
+            "ID": 12,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "285.30f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M191784865620725740A7011307338D7253199383060414973",
+            "StatTrak": false
+           },
+           {
+            "ID": 13,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "342.89f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534593807143A7012554793D7110663058759938005",
+            "StatTrak": false
+           },
+           {
+            "ID": 14,
+            "Name": "AK-47 | Case Hardened",
+            "Price": "467.51f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M638766174034441109A6875062807D2334239704251138363",
+            "StatTrak": false
+           },
+           {
+            "ID": 15,
+            "Name": "Desert Eagle | Hypnotic",
+            "Price": "209.07f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929376239786A6868224889D12160326786638685281",
+            "StatTrak": true
+           },
+           {
+            "ID": 16,
+            "Name": "Desert Eagle | Hypnotic",
+            "Price": "370.45f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M191784865621848290A6896338019D9405990088670316615",
+            "StatTrak": true
+           },
+           {
+            "ID": 17,
+            "Name": "Desert Eagle | Hypnotic",
+            "Price": "175.17f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929376239786A6868224889D12160326786638685281",
+            "StatTrak": false
+           },
+           {
+            "ID": 18,
+            "Name": "Desert Eagle | Hypnotic",
+            "Price": "150.17f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M191784865621848290A6896338019D9405990088670316615",
+            "StatTrak": false
+           },
+           {
+            "ID": 19,
+            "Name": "Glock-18 | Dragon Tattoo",
+            "Price": "185.11f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M565583634688645372A7014083864D4614162130104003910",
+            "StatTrak": true
+           },
+           {
+            "ID": 20,
+            "Name": "Glock-18 | Dragon Tattoo",
+            "Price": "209.47f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765530275531A7002783307D11531540403340224942",
+            "StatTrak": true
+           },
+           {
+            "ID": 21,
+            "Name": "Glock-18 | Dragon Tattoo",
+            "Price": "107.91f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M565583634688645372A7014083864D4614162130104003910",
+            "StatTrak": false
+           },
+           {
+            "ID": 22,
+            "Name": "Glock-18 | Dragon Tattoo",
+            "Price": "103.42f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765530275531A7002783307D11531540403340224942",
+            "StatTrak": false
+           },
+           {
+            "ID": 23,
+            "Name": "M4A1-S | Dark Water",
+            "Price": "128.24f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M191784865622859120A7008244292D309319880618145636",
+            "StatTrak": true
+           },
+           {
+            "ID": 24,
+            "Name": "M4A1-S | Dark Water",
+            "Price": "156.02f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M628634029469850105A6949218037D6957162165142763460",
+            "StatTrak": true
+           },
+           {
+            "ID": 25,
+            "Name": "M4A1-S | Dark Water",
+            "Price": "77.67f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M191784865622859120A7008244292D309319880618145636",
+            "StatTrak": false
+           },
+           {
+            "ID": 26,
+            "Name": "M4A1-S | Dark Water",
+            "Price": "89.65",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M628634029469850105A6949218037D6957162165142763460",
+            "StatTrak": false
+           },
+           {
+            "ID": 27,
+            "Name": "USP-S | Dark Water",
+            "Price": "127.90f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829279138857A50079434D39559217291189059",
+            "StatTrak": true
+           },
+           {
+            "ID": 28,
+            "Name": "USP-S | Dark Water",
+            "Price": "151.05f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765525159291A7006745628D12132744043284922157",
+            "StatTrak": true
+           },
+           {
+            "ID": 29,
+            "Name": "USP-S | Dark Water",
+            "Price": "81.03f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829279138857A50079434D39559217291189059",
+            "StatTrak": false
+           },
+           {
+            "ID": 30,
+            "Name": "USP-S | Dark Water",
+            "Price": "82.44f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765525159291A7006745628D12132744043284922157",
+            "StatTrak": false
+           },
+           {
+            "ID": 31,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "15.91f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M632011729187632478A7006019951D14429716042989088213",
+            "StatTrak": true
+           },
+           {
+            "ID": 32,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "16.36f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829275591177A6980024762D9666099928743806265",
+            "StatTrak": true
+           },
+           {
+            "ID": 33,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "15.98f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M191784865617736300A6974320234D17171888988875394427",
+            "StatTrak": true
+           },
+           {
+            "ID": 34,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "19.97f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M628634029464046585A7004793058D146417840513895735",
+            "StatTrak": true
+           },
+           {
+            "ID": 35,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "102.42f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M632011729177329558A6991041981D310333343224185299",
+            "StatTrak": true
+           },
+           {
+            "ID": 36,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "19.42f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M632011729187632478A7006019951D14429716042989088213",
+            "StatTrak": false
+           },
+           {
+            "ID": 37,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "20.06f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829275591177A6980024762D9666099928743806265",
+            "StatTrak": false
+           },
+           {
+            "ID": 38,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "19,21f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M191784865617736300A6974320234D17171888988875394427",
+            "StatTrak": false
+           },
+           {
+            "ID": 39,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "21.85f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M628634029464046585A7004793058D146417840513895735",
+            "StatTrak": false
+           },
+           {
+            "ID": 40,
+            "Name": "SG 553 | Ultraviolet",
+            "Price": "37.54f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M632011729177329558A6991041981D310333343224185299",
+            "StatTrak": false
+           },
+           {
+            "ID": 41,
+            "Name": "AUG | Wings",
+            "Price": "16.99f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929375586356A7011547135D5476594998568849606",
+            "StatTrak": true
+           },
+           {
+            "ID": 42,
+            "Name": "AUG | Wings",
+            "Price": "17.00f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829282770257A7010467553D4936132531340333184",
+            "StatTrak": true
+           },
+           {
+            "ID": 43,
+            "Name": "AUG | Wings",
+            "Price": "20.48f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929375586356A7011547135D5476594998568849606",
+            "StatTrak": false
+           },
+           {
+            "ID": 44,
+            "Name": "AUG | Wings",
+            "Price": "19.90f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829282770257A7010467553D4936132531340333184",
+            "StatTrak": false
+           },
+           {
+            "ID": 45,
+            "Name": "MP7 | Skulls",
+            "Price": "16.68f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765529939971A7013962823D5344867758152370887",
+            "StatTrak": true
+           },
+           {
+            "ID": 46,
+            "Name": "MP7 | Skulls",
+            "Price": "17.54f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534595686283A6998143282D7656234308549273159",
+            "StatTrak": true
+           },
+           {
+            "ID": 47,
+            "Name": "MP7 | Skulls",
+            "Price": "19.99f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765529939971A7013962823D5344867758152370887",
+            "StatTrak": false
+           },
+           {
+            "ID": 48,
+            "Name": "MP7 | Skulls",
+            "Price": "21.66f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534595686283A6998143282D7656234308549273159",
+            "StatTrak": false
+           },
+           {
+            "ID": 49,
+            "Name": "Bayonet | Fade",
+            "Price": "1046.36f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829281370437A7010342106D5235650242316537632",
+            "StatTrak": false
+           },
+           {
+            "ID": 50,
+            "Name": "Bayonet | Fade",
+            "Price": "1118.21f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829281370437A7010342106D5235650242316537632",
+            "StatTrak": false
+           },
+           {
+            "ID": 51,
+            "Name": "Bayonet | Fade",
+            "Price": "1087.80f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829281370437A7010342106D5235650242316537632",
+            "StatTrak": true
+           },
+           {
+            "ID": 52,
+            "Name": "Bayonet | Fade",
+            "Price": "1101.95f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829281370437A7010342106D5235650242316537632",
+            "StatTrak": true
+           },
+           {
+            "ID": 53,
+            "Name": "Karambit | Slaughter",
+            "Price": "921.39f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765526626031A7009194471D14619256334046033595",
+            "StatTrak": false
+           },
+           {
+            "ID": 54,
+            "Name": "Karambit | Slaughter",
+            "Price": "10523.56f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M567835434498734664A5704600023D724697664252778109",
+            "StatTrak": false
+           },
+           {
+            "ID": 55,
+            "Name": "Karambit | Slaughter",
+            "Price": "1257.80f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534592240103A6976697781D7403952997333021811",
+            "StatTrak": false
+           },
+           {
+            "ID": 56,
+            "Name": "Karambit | Slaughter",
+            "Price": "949.24f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765526626031A7009194471D14619256334046033595",
+            "StatTrak": true
+           },
+           {
+            "ID": 57,
+            "Name": "Karambit | Slaughter",
+            "Price": "1067.27f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M567835434498734664A5704600023D724697664252778109",
+            "StatTrak": true
+           },
+           {
+            "ID": 58,
+            "Name": "Karambit | Slaughter",
+            "Price": "1255.18f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534592240103A6976697781D7403952997333021811",
+            "StatTrak": true
+           },
+           {
+            "ID": 59,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "119.41f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765526205881A7003434047D9242130182296926960",
+            "StatTrak": false
+           },
+           {
+            "ID": 60,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "125.27f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929370475806A7002427698D14277013555471519960",
+            "StatTrak": false
+           },
+           {
+            "ID": 61,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "121.98f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M632011729187421578A7005770659D10135995592499098648",
+            "StatTrak": false
+           },
+           {
+            "ID": 62,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "129.20f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M565583634688941072A7014510349D13891986984565331642",
+            "StatTrak": false
+           },
+           {
+            "ID": 63,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "1143.33f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M632011729166349258A6419970227D16880793239443281662",
+            "StatTrak": false
+           },
+           {
+            "ID": 64,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "219.43f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M192910765526205881A7003434047D9242130182296926960",
+            "StatTrak": true
+           },
+           {
+            "ID": 65,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "141.32f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929370475806A7002427698D14277013555471519960",
+            "StatTrak": true
+           },
+           {
+            "ID": 66,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "126.77f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M632011729187421578A7005770659D10135995592499098648",
+            "StatTrak": true
+           },
+           {
+            "ID": 67,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "129.32f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M565583634688941072A7014510349D13891986984565331642",
+            "StatTrak": true
+           },
+           {
+            "ID": 68,
+            "Name": "Gut Knife | Safari Mesh",
+            "Price": "161.20f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M632011729166349258A6419970227D16880793239443281662",
+            "StatTrak": true
+           },
+           {
+            "ID": 69,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "91.00f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534595138243A7013912147D14008059680313930930",
+            "StatTrak": false
+           },
+           {
+            "ID": 70,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "94.56f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929377634166A7002284123D9236436870311427322",
+            "StatTrak": false
+           },
+           {
+            "ID": 71,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "92.98f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M565583634684575002A7008067441D453914150674346038",
+            "StatTrak": false
+           },
+           {
+            "ID": 72,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "109.10f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M565583634680737082A7002994042D288277163666676856",
+            "StatTrak": false
+           },
+           {
+            "ID": 73,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "181.36f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829275056257A7000908631D14036257728743202418",
+            "StatTrak": false
+           },
+           {
+            "ID": 74,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "96.67f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534595138243A7013912147D14008059680313930930",
+            "StatTrak": true
+           },
+           {
+            "ID": 75,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "110.89f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929377634166A7002284123D9236436870311427322",
+            "StatTrak": true
+           },
+           {
+            "ID": 76,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "95.98f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M565583634684575002A7008067441D453914150674346038",
+            "StatTrak": true
+           },
+           {
+            "ID": 77,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "114.54f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M565583634680737082A7002994042D288277163666676856",
+            "StatTrak": true
+           },
+           {
+            "ID": 78,
+            "Name": "Gut Knife | Forest DDPAT",
+            "Price": "146.34f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M630885829275056257A7000908631D14036257728743202418",
+            "StatTrak": true
+           },
+           {
+            "ID": 79,
+            "Name": "Flip Knife | Fade",
+            "Price": "1000.12f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929377006826A7013688824D11989288384189282471",
+            "StatTrak": false
+           },
+           {
+            "ID": 80,
+            "Name": "Flip Knife | Fade",
+            "Price": "1184.84f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M628634029468718785A6914906627D17198167461426065423",
+            "StatTrak": false
+           },
+           {
+            "ID": 81,
+            "Name": "Flip Knife | Fade",
+            "Price": "980.45f",
+            "Condition": 4,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M629759929377006826A7013688824D11989288384189282471",
+            "StatTrak": true
+           },
+           {
+            "ID": 82,
+            "Name": "Flip Knife | Fade",
+            "Price": "1215.78f",
+            "Condition": 5,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M628634029468718785A6914906627D17198167461426065423",
+            "StatTrak": true
+           },
+           {
+            "ID": 83,
+            "Name": "Karambit | Crimson Web",
+            "Price": "953.54f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M567835434491108924A6998323354D9252294344808944347",
+            "StatTrak": true
+           },
+           {
+            "ID": 84,
+            "Name": "Karambit | Crimson Web",
+            "Price": "1087.32f",
+            "Condition": 2,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M566709534589118913A7005419421D902064237813912723",
+            "StatTrak": true
+           },
+           {
+            "ID": 85,
+            "Name": "Karambit | Crimson Web",
+            "Price": "1232.67f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M633137629091976259A7007793777D1065911005948517427",
+            "StatTrak": true
+           },
+           {
+            "ID": 86,
+            "Name": "Karambit | Crimson Web",
+            "Price": "974.24f",
+            "Condition": 1,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M567835434491108924A6998323354D9252294344808944347",
+            "StatTrak": false
+           },
+           {
+            "ID": 87,
+            "Name": "Karambit | Crimson Web",
+            "Price": "1596.26f",
+            "Condition": 3,
+            "Color": 7,
+            "CaseName": "CSGO_Weapon_Case_1",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M633137629091976259A7007793777D1065911005948517427",
+            "StatTrak": false
+           }
+       ]
+}

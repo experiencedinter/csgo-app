@@ -1,0 +1,1700 @@
+{
+    "Case":[
+        {
+            "ID": 0,
+            "Name": "M4A4 | Temukau",
+            "Price": "16.74f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4251997042175033189A28596148344D351927751636484618",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 1,
+            "Name": "M4A4 | Temukau",
+            "Price": "34.72f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4237360343381410811A28596688269D10287468680858289804",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 2,
+            "Name": "M4A4 | Temukau",
+            "Price": "38.99f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442553916696A28592502219D16186188758203326688",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 3,
+            "Name": "M4A4 | Temukau",
+            "Price": "141.60f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4232856743767592585A28595767626D605926181843709444",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 4,
+            "Name": "M4A4 | Temukau",
+            "Price": "345.78f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4254248841988817759A28601637652D7947272272707788846",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 5,
+            "Name": "M4A4 | Temukau",
+            "Price": "29.75f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4251997042175033189A28596148344D351927751636484618",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 6,
+            "Name": "M4A4 | Temukau",
+            "Price": "57.34f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4237360343381410811A28596688269D10287468680858289804",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 7,
+            "Name": "M4A4 | Temukau",
+            "Price": "67.59f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442553916696A28592502219D16186188758203326688",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 8,
+            "Name": "M4A4 | Temukau",
+            "Price": "242.54f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4232856743767592585A28595767626D605926181843709444",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 9,
+            "Name": "M4A4 | Temukau",
+            "Price": "680.83f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4254248841988817759A28601637652D7947272272707788846",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 10,
+            "Name": "AK-47 | Head Shot",
+            "Price": "19.46f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443485090974A28596746498D209996466782618399",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 11,
+            "Name": "AK-47 | Head Shot",
+            "Price": "26.97f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245241642739822620A28596624675D16604431725953174487",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 12,
+            "Name": "AK-47 | Head Shot",
+            "Price": "59.33f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142266515448A28592593959D5109556018229209425",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 13,
+            "Name": "AK-47 | Head Shot",
+            "Price": "117.40f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4249745242368542698A28592866431D7252066885583151607",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 14,
+            "Name": "AK-47 | Head Shot",
+            "Price": "237.10f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342462433377A28595847864D7270716785228695037",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 15,
+            "Name": "AK-47 | Head Shot",
+            "Price": "43.62f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443485090974A28596746498D209996466782618399",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 16,
+            "Name": "AK-47 | Head Shot",
+            "Price": "57.89f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245241642739822620A28596624675D16604431725953174487",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 17,
+            "Name": "AK-47 | Head Shot",
+            "Price": "104.55f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142266515448A28592593959D5109556018229209425",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 18,
+            "Name": "AK-47 | Head Shot",
+            "Price": "202.92f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4249745242368542698A28592866431D7252066885583151607",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 19,
+            "Name": "AK-47 | Head Shot",
+            "Price": "527.36f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342462433377A28595847864D7270716785228695037",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 20,
+            "Name": "AWP | Duality",
+            "Price": "8.14f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245242276177008542A28690104782D17045777980509011561",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 21,
+            "Name": "AWP | Duality",
+            "Price": "11.53f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245242276176989682A28690062247D16430374587867119311",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 22,
+            "Name": "AWP | Duality",
+            "Price": "9.62f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245242276176998802A28670403318D11685759398696989805",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 23,
+            "Name": "AWP | Duality",
+            "Price": "19.81f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247494075995357944A28683583311D7827868326048216587",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 24,
+            "Name": "AWP | Duality",
+            "Price": "36.38f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4263256674692562166A28688964909D12259044622372197541",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 25,
+            "Name": "AWP | Duality",
+            "Price": "19.74f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245242276177008542A28690104782D17045777980509011561",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 26,
+            "Name": "AWP | Duality",
+            "Price": "27.90f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245242276176989682A28690062247D16430374587867119311",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 27,
+            "Name": "AWP | Duality",
+            "Price": "21.27f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245242276176998802A28670403318D11685759398696989805",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 28,
+            "Name": "AWP | Duality",
+            "Price": "44.64f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247494075995357944A28683583311D7827868326048216587",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 29,
+            "Name": "AWP | Duality",
+            "Price": "83.70f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4263256674692562166A28688964909D12259044622372197541",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 30,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "3.67f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4233982643671838946A28592449018D11839555246704385574",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 31,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "4.92f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4235108543580106767A28595909256D5333010470689962150",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 32,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "6.87f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142267149788A28593732089D7660315680818027178",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 33,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "15.43f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461533157A28593685801D14018127431387697230",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 34,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "29.01f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4244115742825713784A28592893641D12587005594781201538",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 35,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "5.70f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4233982643671838946A28592449018D11839555246704385574",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 36,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "8.60f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4235108543580106767A28595909256D5333010470689962150",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 37,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "9.72f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142267149788A28593732089D7660315680818027178",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 38,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "27.20f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461533157A28593685801D14018127431387697230",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 39,
+            "Name": "UMP-45 | Wild Child",
+            "Price": "59.69f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4244115742825713784A28592893641D12587005594781201538",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 40,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "3.69f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4237360343379984151A28593265307D12593298788098687174",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 41,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "5.01f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443483852254A28593631051D16187219229013713416",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 42,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "6.89f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443483883614A28593697533D16467522695212582534",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 43,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "14.92f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442555449276A28596449092D453740328096278698",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 44,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "29.54f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4235108543580074947A28596759884D16333446029093153358",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 45,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "5.66f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4237360343379984151A28593265307D12593298788098687174",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 46,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "8.18f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443483852254A28593631051D16187219229013713416",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 47,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "11.20f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443483883614A28593697533D16467522695212582534",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 48,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "26.96f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442555449276A28596449092D453740328096278698",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 49,
+            "Name": "P2000 | Wicked Sick",
+            "Price": "59.29f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4235108543580074947A28596759884D16333446029093153358",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 50,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "0.99f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461457377A28593505606D633394214635278726",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 51,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "1.88f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245241642738573480A28593318259D14845764381272126892",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 52,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "1.14f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245241642738727980A28593689213D9685675051138621198",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 53,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "2.50f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4249745242368900238A28593728388D14161119117057423714",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 54,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "5.35f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4242989842918870703A28593706053D9971215921013668132",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 55,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "3.36f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461457377A28593505606D633394214635278726",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 56,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "5.25f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245241642738573480A28593318259D14845764381272126892",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 57,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "3.44f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245241642738727980A28593689213D9685675051138621198",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 58,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "7.23f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4249745242368900238A28593728388D14161119117057423714",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 59,
+            "Name": "M4A1-S | Emphorosaur-S",
+            "Price": "17.92f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4242989842918870703A28593706053D9971215921013668132",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 60,
+            "Name": "P90 | Neoqueen",
+            "Price": "1.83f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4254248841985485819A28593815112D7937293807203999931",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 61,
+            "Name": "P90 | Neoqueen",
+            "Price": "0.93f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4249745242370028858A28596731575D16322253012565615291",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 62,
+            "Name": "P90 | Neoqueen",
+            "Price": "0.91f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442554090336A28592939157D11728160681846465045",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 63,
+            "Name": "P90 | Neoqueen",
+            "Price": "1.97f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4251997042174206829A28593749232D3327076697297887835",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 64,
+            "Name": "P90 | Neoqueen",
+            "Price": "3.17f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4244115742826082864A28593563028D19739028807067831",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 65,
+            "Name": "P90 | Neoqueen",
+            "Price": "4.69f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4254248841985485819A28593815112D7937293807203999931",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 66,
+            "Name": "P90 | Neoqueen",
+            "Price": "2.73f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4249745242370028858A28596731575D16322253012565615291",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 67,
+            "Name": "P90 | Neoqueen",
+            "Price": "1.64f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442554090336A28592939157D11728160681846465045",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 68,
+            "Name": "P90 | Neoqueen",
+            "Price": "4.01f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4251997042174206829A28593749232D3327076697297887835",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 69,
+            "Name": "P90 | Neoqueen",
+            "Price": "7.33f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4244115742826082864A28593563028D19739028807067831",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 70,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "0.61f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193969153A28593692794D5254265533716794284",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 71,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "0.86f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461015337A28592575639D9423817739864648074",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 72,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "0.89f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4232856743766774685A28593659946D7965319801904048032",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 73,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "2.09f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4246367542647757615A28593730353D14280365224287855462",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 74,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "3.32f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012320262A28593739751D7352162015426799468",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 75,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "1.51f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193969153A28593692794D5254265533716794284",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 76,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "2.01f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461015337A28592575639D9423817739864648074",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 77,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "1.85f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4232856743766774685A28593659946D7965319801904048032",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 78,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "4.72f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4246367542647757615A28593730353D14280365224287855462",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 79,
+            "Name": "Glock-18 | Umbral Rabbit",
+            "Price": "8.92f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012320262A28593739751D7352162015426799468",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 80,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "0.58f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4246367542647786135A28593836852D11541048174418339842",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 81,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "0.71f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4254248841985313079A28593347479D9234321859143557732",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 82,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "0.93f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4251997042174097629A28593434241D2776159658908484800",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 83,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "1.84f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4242989842918461443A28592707027D16206957587116494382",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 84,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "3.42f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4249745242368874318A28593654637D9711639605039910080",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 85,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "1.03f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4246367542647786135A28593836852D11541048174418339842",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 86,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "1.37f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4254248841985313079A28593347479D9234321859143557732",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 87,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "1.60f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4251997042174097629A28593434241D2776159658908484800",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 88,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "3.87f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4242989842918461443A28592707027D16206957587116494382",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 89,
+            "Name": "R8 Revolver | Banana Cannon",
+            "Price": "8.77f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4249745242368874318A28593654637D9711639605039910080",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 90,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "0.62f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443483849514A28592178832D17032867016094851585",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 91,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "1.11f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461521337A28593669012D5201211864851801313",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 92,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "2.63f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461539977A28593715565D2360062583079289871",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 93,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "NULL",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 94,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "NULL",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 95,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "1.22f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443483849514A28592178832D17032867016094851585",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 96,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "2.20f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461521337A28593669012D5201211864851801313",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 97,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "4.93f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461539977A28593715565D2360062583079289871",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 98,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "NULL",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 99,
+            "Name": "MAC-10 | Sakkaku",
+            "Price": "NULL",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Revolution_Case",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 100,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "0.08f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4246367542647420055A28592939500D5083649899275314107",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 101,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "0.09f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193921533A28593554786D9999223471596995923",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 102,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "0.11f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012283362A28593645522D5524865639432563999",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 103,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "0.22f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012306862A28593727783D9848283923355389883",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 104,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "0.47f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4242989842920029523A28596770752D4775155285421695889",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 105,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "0.22f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4246367542647420055A28592939500D5083649899275314107",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 106,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "0.19f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193921533A28593554786D9999223471596995923",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 107,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "0.26f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012283362A28593645522D5524865639432563999",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 108,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "0.60f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012306862A28593727783D9848283923355389883",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 109,
+            "Name": "MP5-SD | Liquidation",
+            "Price": "1.97f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4242989842920029523A28596770752D4775155285421695889",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 110,
+            "Name": "MP9 | Featherweight",
+            "Price": "0.08f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4232856743766623805A28593129176D307619346243177658",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 111,
+            "Name": "MP9 | Featherweight",
+            "Price": "0.08f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443483805014A28593520525D3354096154447848982",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 112,
+            "Name": "MP9 | Featherweight",
+            "Price": "0.11f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4237360343380149591A28593681370D12286488563640584308",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 113,
+            "Name": "MP9 | Featherweight",
+            "Price": "0.20f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461508557A28593633244D16907782525304999066",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 114,
+            "Name": "MP9 | Featherweight",
+            "Price": "0.47f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193989033A28593746844D3063132632504634420",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 115,
+            "Name": "MP9 | Featherweight",
+            "Price": "0.20f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4232856743766623805A28593129176D307619346243177658",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 116,
+            "Name": "MP9 | Featherweight",
+            "Price": "0.20f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4236234443483805014A28593520525D3354096154447848982",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 117,
+            "Name": "MP9 | Featherweight",
+            "Price": "0.26f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4237360343380149591A28593681370D12286488563640584308",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 118,
+            "Name": "MP9 | Featherweight",
+            "Price": "0.55f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461508557A28593633244D16907782525304999066",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 119,
+            "Name": "MP9 | Featherweight",
+            "Price": "2.00f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193989033A28593746844D3063132632504634420",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 120,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "0.08f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142267131228A28593697913D12316433377409132407",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 121,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "0.09f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245241642738766320A28593785799D14573908042263719797",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 122,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4240738043114310321A28593601178D17152595128709940703",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 123,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "0.21f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4235108543579015387A28593742684D14151577237291068223",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 124,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "0.49f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4238486243287204852A28592611118D3035547104299486707",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 125,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "0.20f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142267131228A28593697913D12316433377409132407",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 126,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "0.21f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4245241642738766320A28593785799D14573908042263719797",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 127,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "0.26f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4240738043114310321A28593601178D17152595128709940703",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 128,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "0.59f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4235108543579015387A28593742684D14151577237291068223",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 129,
+            "Name": "SG 553 | Cyberforce",
+            "Price": "1.93f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4238486243287204852A28592611118D3035547104299486707",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 130,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "0.08f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442554362096A28593503365D9532997047622941207",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 131,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "0.08f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442554434196A28593718053D877854818330169393",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 132,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "0.11f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461541937A28593604599D12163253126537623101",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 133,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "0.21f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142267153448A28593735421D7821710922382432375",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 134,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "0.48f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193820473A28593304919D16871133055713492507",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 135,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "0.20f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442554362096A28593503365D9532997047622941207",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 136,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "0.19f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4247493442554434196A28593718053D877854818330169393",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 137,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "0.26f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461541937A28593604599D12163253126537623101",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 138,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "0.59f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142267153448A28593735421D7821710922382432375",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 139,
+            "Name": "MAG-7 | Insomnia",
+            "Price": "1.52f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193820473A28593304919D16871133055713492507",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 140,
+            "Name": "P250 | Re.built",
+            "Price": "0.07f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012277882A28593643724D16889668640857304326",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 141,
+            "Name": "P250 | Re.built",
+            "Price": "0.09f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4232856743766748085A28593592245D14712741185650181546",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 142,
+            "Name": "P250 | Re.built",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4254248841985458919A28593730192D11961736724527639944",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 143,
+            "Name": "P250 | Re.built",
+            "Price": "0.22f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4237360343380176291A28593735171D16295860332278057804",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 144,
+            "Name": "P250 | Re.built",
+            "Price": "0.45f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012162202A28593365889D5351521580179712992",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 145,
+            "Name": "P250 | Re.built",
+            "Price": "0.20f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012277882A28593643724D16889668640857304326",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 146,
+            "Name": "P250 | Re.built",
+            "Price": "0.20f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4232856743766748085A28593592245D14712741185650181546",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 147,
+            "Name": "P250 | Re.built",
+            "Price": "0.25f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4254248841985458919A28593730192D11961736724527639944",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 148,
+            "Name": "P250 | Re.built",
+            "Price": "0.56f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4237360343380176291A28593735171D16295860332278057804",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 149,
+            "Name": "P250 | Re.built",
+            "Price": "1.38f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012162202A28593365889D5351521580179712992",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 150,
+            "Name": "Tec-9 | Rebel",
+            "Price": "0.08f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4246367542647729815A28593675304D7505324234284701046",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 151,
+            "Name": "Tec-9 | Rebel",
+            "Price": "0.08f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4244115742826020704A28593577866D5219214624637582106",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 152,
+            "Name": "Tec-9 | Rebel",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142267140188A28592288436D17197105697366692728",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 153,
+            "Name": "Tec-9 | Rebel",
+            "Price": "0.22f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4233982643672352066A28593409660D10088067710559951122",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 154,
+            "Name": "Tec-9 | Rebel",
+            "Price": "0.46f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4235108543578942127A28593567313D14304644388893954906",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 155,
+            "Name": "Tec-9 | Rebel",
+            "Price": "0.21f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4246367542647729815A28593675304D7505324234284701046",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 156,
+            "Name": "Tec-9 | Rebel",
+            "Price": "0.21f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4244115742826020704A28593577866D5219214624637582106",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 157,
+            "Name": "Tec-9 | Rebel",
+            "Price": "0.27f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4250871142267140188A28592288436D17197105697366692728",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 158,
+            "Name": "Tec-9 | Rebel",
+            "Price": "0.56f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4233982643672352066A28593409660D10088067710559951122",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 159,
+            "Name": "Tec-9 | Rebel",
+            "Price": "1.37f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4235108543578942127A28593567313D14304644388893954906",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 160,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "0.08f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193911213A28593510149D4793107819644903890",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 161,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "0.09f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4240738043113953981A28592933357D11673374258707598844",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 162,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "0.10f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461548457A28593701570D17006933633152716082",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 163,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "0.21f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012131802A28593282894D7820158413070421426",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 164,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "0.43f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012298042A28593690749D16573324189406341392",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 165,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "0.21f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4239612143193911213A28593510149D4793107819644903890",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 166,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "0.21f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4240738043113953981A28592933357D11673374258707598844",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 167,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "0.24f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4248619342461548457A28593701570D17006933633152716082",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 168,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "0.57f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012131802A28593282894D7820158413070421426",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 169,
+            "Name": "SCAR-20 | Fragments",
+            "Price": "1.22f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Revolution_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4241863943012298042A28593690749D16573324189406341392",
+            "StatTrak": "true"
+           }
+       ]
+}

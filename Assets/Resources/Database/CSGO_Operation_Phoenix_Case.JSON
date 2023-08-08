@@ -1,0 +1,1044 @@
+{
+    "Case":[
+        {
+            "ID": 0,
+            "Name": "AWP | Asiimov",
+            "Price": "80.55f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061742101068A21257631703D16162869771285732907",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 1,
+            "Name": "AWP | Asiimov",
+            "Price": "104.43f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M4167491236985842022A19815463146D5485455170388032709",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 2,
+            "Name": "AWP | Asiimov",
+            "Price": "142.96f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3437907356998321540A20745061639D4822420925268377313",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 3,
+            "Name": "AWP | Asiimov",
+            "Price": "135.14f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561278711353A21139673422D7954144192812170381",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 4,
+            "Name": "AWP | Asiimov",
+            "Price": "185.11f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3433405027616630163A21240948719D16755155238929306349",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 5,
+            "Name": "AWP | Asiimov",
+            "Price": "281.46f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027960721473039A20778016250D445401580007906539",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 6,
+            "Name": "AUG | Chameleon",
+            "Price": "3.47f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027960719121399A21000665846D16466851287194064938",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 7,
+            "Name": "AUG | Chameleon",
+            "Price": "3.22f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3432279127717312022A19652340137D893437330277315206",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 8,
+            "Name": "AUG | Chameleon",
+            "Price": "2.78f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261929701426A21262116294D10297035006874902056",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 9,
+            "Name": "AUG | Chameleon",
+            "Price": "3.35f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3410887662301054542A21246792510D7641595411240599140",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 10,
+            "Name": "AUG | Chameleon",
+            "Price": "5.70f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3413139462116171604A21262793893D12108530836216091652",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 11,
+            "Name": "AUG | Chameleon",
+            "Price": "10.02f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287021550363110488A18965369771D6937494099935794914",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 12,
+            "Name": "AUG | Chameleon",
+            "Price": "8.05f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3434530927524219444A21238263739D4669826140847658498",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 13,
+            "Name": "AUG | Chameleon",
+            "Price": "8.00f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3409761762391438201A21243378392D10269555607168268902",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 14,
+            "Name": "AUG | Chameleon",
+            "Price": "11.33f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461185329514A21253676650D13838653930986946242",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 15,
+            "Name": "AUG | Chameleon",
+            "Price": "20.86f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3431153227813795141A21252098972D4920851260861093006",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 16,
+            "Name": "AK-47 | Redline",
+            "Price": "10.74f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3408635862483989000A21254018479D5080075929072992571",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 17,
+            "Name": "AK-47 | Redline",
+            "Price": "13.60f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3408635862485826060A21256905954D5056643179679248183",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 18,
+            "Name": "AK-47 | Redline",
+            "Price": "17.41f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261929595226A21261901685D5379598557213649215",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 19,
+            "Name": "AK-47 | Redline",
+            "Price": "81.23f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3446915826493117335A21226468839D10253577507413295985",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 20,
+            "Name": "AK-47 | Redline",
+            "Price": "17.72f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3436782905525913286A21222086853D14564817720358637369",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 21,
+            "Name": "AK-47 | Redline",
+            "Price": "34.99f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3442412226879042411A18268949909D12430751800886855135",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 22,
+            "Name": "AK-47 | Redline",
+            "Price": "43.90f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3409761762396504221A21138953367D9530993979530035991",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 23,
+            "Name": "AK-47 | Redline",
+            "Price": "208.02f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461184427794A21259534324D13981988297231345651",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 24,
+            "Name": "P90 | Trigon",
+            "Price": "10.96f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060812194618A21260868689D17062498683902058617",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 25,
+            "Name": "P90 | Trigon",
+            "Price": "9.63f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3410887662300758322A21259054980D7560605626494977247",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 26,
+            "Name": "P90 | Trigon",
+            "Price": "8.37f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461184715754A21260093447D154290257706453181",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 27,
+            "Name": "P90 | Trigon",
+            "Price": "9.83f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561278186353A21260776226D3090782909302284401",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 28,
+            "Name": "P90 | Trigon",
+            "Price": "17.25f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3408635862487057000A21259218111D6946923373347832059",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 29,
+            "Name": "P90 | Trigon",
+            "Price": "18.50f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3422146661370478552A21259614810D14745389939894766737",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 30,
+            "Name": "P90 | Trigon",
+            "Price": "15.65f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3413139462115921104A21262306196D4965434102225371863",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 31,
+            "Name": "P90 | Trigon",
+            "Price": "18.39f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3419894861556145510A21258391034D290597402095510677",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 32,
+            "Name": "Nova | Antique",
+            "Price": "9.41f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261929271426A21261329404D3370040998984051217",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 33,
+            "Name": "Nova | Antique",
+            "Price": "9.52f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3410887662300918562A21259373444D7358926067118827671",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 34,
+            "Name": "Nova | Antique",
+            "Price": "11.88f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3409761762390896301A20989041753D11675628250660007611",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 35,
+            "Name": "Nova | Antique",
+            "Price": "16.87f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3414265362022942125A21262032990D11989259801073025587",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 36,
+            "Name": "Nova | Antique",
+            "Price": "18.76f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3418768961650590449A21179173365D7849431138558985883",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 37,
+            "Name": "Nova | Antique",
+            "Price": "24.01f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3432279127707662382A21198503924D10116781055648391317",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 38,
+            "Name": "USP-S | Guardian",
+            "Price": "2.21f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3434530927533560544A21252123501D7656799751869037411",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 39,
+            "Name": "USP-S | Guardian",
+            "Price": "3.07f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061743152308A21186368133D10244253784035014947",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 40,
+            "Name": "USP-S | Guardian",
+            "Price": "3.67f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3426650260999261836A21252406253D2777245753187974945",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 41,
+            "Name": "USP-S | Guardian",
+            "Price": "3.08f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3422146661370198492A21258499163D9279108652742457281",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 42,
+            "Name": "USP-S | Guardian",
+            "Price": "6.91f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3421020761463728611A21180226018D9236325111689084399",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 43,
+            "Name": "USP-S | Guardian",
+            "Price": "10.61f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562207569003A19837442317D10119098025278551907",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 44,
+            "Name": "MAC-10 | Heat",
+            "Price": "1.43f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261927908826A20710857425D12294975013239221293",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 45,
+            "Name": "MAC-10 | Heat",
+            "Price": "1.45f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061743544148A21245827060D16150648013554181669",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 46,
+            "Name": "MAC-10 | Heat",
+            "Price": "1.68f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3414265362022213165A21112136105D7272752812239571041",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 47,
+            "Name": "MAC-10 | Heat",
+            "Price": "2.68f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3426650260999251796A21247171105D11855273771413899407",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 48,
+            "Name": "MAC-10 | Heat",
+            "Price": "4.84f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3409761762395019081A21258578010D4621861905139853519",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 49,
+            "Name": "MAC-10 | Heat",
+            "Price": "2.90f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3413139462114190424A21258682484D13856697425589010671",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 50,
+            "Name": "MAC-10 | Heat",
+            "Price": "2.47f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562208368563A21260440523D497093770029416995",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 51,
+            "Name": "MAC-10 | Heat",
+            "Price": "2.77f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3414265362023076845A21257214297D4622035492780190885",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 52,
+            "Name": "MAC-10 | Heat",
+            "Price": "7.02f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3409761762394259421A21259060346D9263525016828471535",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 53,
+            "Name": "MAC-10 | Heat",
+            "Price": "11.58f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3437908627252999867A21252939299D3046908237109732015",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 54,
+            "Name": "SG 553 | Pulse",
+            "Price": "1.39f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3414265362023172785A21262432664D16456762317245949787",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 55,
+            "Name": "SG 553 | Pulse",
+            "Price": "1.62f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3435656827442679965A21253239184D10287433684497378751",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 56,
+            "Name": "SG 553 | Pulse",
+            "Price": "1.35f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060811798818A21105033533D12316936935891406745",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 57,
+            "Name": "SG 553 | Pulse",
+            "Price": "2.79f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261930034646A21261053223D309244933474880277",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 58,
+            "Name": "SG 553 | Pulse",
+            "Price": "2.46f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3426650261000414016A21262233612D7794687278036289301",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 59,
+            "Name": "SG 553 | Pulse",
+            "Price": "2.56f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3441286326975054030A21236778887D17041696368795494197",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 60,
+            "Name": "SG 553 | Pulse",
+            "Price": "2.66f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261930177506A21174224829D5496340330072286001",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 61,
+            "Name": "SG 553 | Pulse",
+            "Price": "8.05f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561276541393A20289803712D7226626639975203089",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 62,
+            "Name": "FAMAS | Sergeant",
+            "Price": "1.31f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061743949168A21261444512D2326335899717399638",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 63,
+            "Name": "FAMAS | Sergeant",
+            "Price": "1.52f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027960720383639A21260572709D7683365576756187354",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 64,
+            "Name": "FAMAS | Sergeant",
+            "Price": "1.52f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3426650260999210116A21259013294D14044025515481247766",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 65,
+            "Name": "FAMAS | Sergeant",
+            "Price": "3.88f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3417643061742826368A21244342703D12585911890450584636",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 66,
+            "Name": "FAMAS | Sergeant",
+            "Price": "2.50f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3410887662302347142A21262308620D14700349937995627764",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 67,
+            "Name": "FAMAS | Sergeant",
+            "Price": "3.33f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561276234173A21257173644D12313017759039795418",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 68,
+            "Name": "FAMAS | Sergeant",
+            "Price": "2.58f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461185129774A877338503D2368939618093142162",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 69,
+            "Name": "FAMAS | Sergeant",
+            "Price": "8.56f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3425524361091982315A21257698198D1344620078995066",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 70,
+            "Name": "Tec-9 | Sandstorm",
+            "Price": "0.14f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3427776160904845197A21256714603D16755339378135882104",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 71,
+            "Name": "Tec-9 | Sandstorm",
+            "Price": "0.20f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060811564578A21244089546D2621909618303545810",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 72,
+            "Name": "Tec-9 | Sandstorm",
+            "Price": "0.16f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3440159156819620482A2674060884D16458058400403264788",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 73,
+            "Name": "Tec-9 | Sandstorm",
+            "Price": "1.06f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027960719718539A20808657805D7936088213203948538",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 74,
+            "Name": "Tec-9 | Sandstorm",
+            "Price": "0.31f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3423272561278653233A21245952870D481005612613047578",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 75,
+            "Name": "Tec-9 | Sandstorm",
+            "Price": "0.52f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3425524361089902075A21197702936D17036673190545940440",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 76,
+            "Name": "Tec-9 | Sandstorm",
+            "Price": "0.31f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461184673014A20307494226D9857340153478715696",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 77,
+            "Name": "Tec-9 | Sandstorm",
+            "Price": "1.70f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3418768961649640929A13667219745D9244322726264289682",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 78,
+            "Name": "MAG-7 | Heaven Guard",
+            "Price": "0.20f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3440159156813937102A14625365812D6938442326824440027",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 79,
+            "Name": "MAG-7 | Heaven Guard",
+            "Price": "0.15f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3419894861554208110A21253490482D11701170152603088411",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 80,
+            "Name": "MAG-7 | Heaven Guard",
+            "Price": "0.26f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461184898934A21260479326D14170013982727598297",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 81,
+            "Name": "MAG-7 | Heaven Guard",
+            "Price": "0.38f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461184522994A21259708331D13837918988004963859",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 82,
+            "Name": "MAG-7 | Heaven Guard",
+            "Price": "0.42f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461184694734A21260046638D5397707151729611355",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 83,
+            "Name": "MAG-7 | Heaven Guard",
+            "Price": "0.37f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3422146661370923612A13940103150D11683674717179207321",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 84,
+            "Name": "MAG-7 | Heaven Guard",
+            "Price": "0.54f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3439034527154791968A21241949940D748205019530992283",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 85,
+            "Name": "MAG-7 | Heaven Guard",
+            "Price": "1.05f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3416517161835668367A14485098313D16449397683231732989",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 86,
+            "Name": "Negev | Terrain",
+            "Price": "0.11f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3428902060811663178A21141514292D6963839137411879208",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 87,
+            "Name": "Negev | Terrain",
+            "Price": "0.19f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3425524361090225115A21257736228D10263189143085864864",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 88,
+            "Name": "Negev | Terrain",
+            "Price": "0.28f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027960721296499A21262210316D2741047872436027360",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 89,
+            "Name": "Negev | Terrain",
+            "Price": "0.36f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3439034527159972028A13752747573D12125454244172636098",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 90,
+            "Name": "Negev | Terrain",
+            "Price": "0.43f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3415391261928364926A20343396659D11701623438151488494",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 91,
+            "Name": "Negev | Terrain",
+            "Price": "0.33f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3446915826509279275A18009341897D45852112108494630",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 92,
+            "Name": "Negev | Terrain",
+            "Price": "0.54f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027960720653179A21206421983D1073737299430677836",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 93,
+            "Name": "Negev | Terrain",
+            "Price": "0.75f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3414265362022554905A21259321231D2901094578653180870",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 94,
+            "Name": "UMP-45 | Corporal",
+            "Price": "0.17f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3408635862484500720A21253164591D14576501276403555520",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 95,
+            "Name": "UMP-45 | Corporal",
+            "Price": "0.21f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3412013562207170023A21258061980D16466398333006461064",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 96,
+            "Name": "UMP-45 | Corporal",
+            "Price": "0.14f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3430027960719903899A21052926730D5485644846284888202",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 97,
+            "Name": "UMP-45 | Corporal",
+            "Price": "0.22f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3410887662301102702A21259733982D5395383685656843816",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 98,
+            "Name": "UMP-45 | Corporal",
+            "Price": "0.87f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3418768961649867589A21259467267D14296686122657902688",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 99,
+            "Name": "UMP-45 | Corporal",
+            "Price": "0.29f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3421020761464858431A20457352602D5488375886052964558",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 100,
+            "Name": "UMP-45 | Corporal",
+            "Price": "0.34f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3419894861556585230A21259427257D9263533803839648268",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 101,
+            "Name": "UMP-45 | Corporal",
+            "Price": "0.30f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3408635862487213440A15495853883D16152242117409739368",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 102,
+            "Name": "UMP-45 | Corporal",
+            "Price": "0.58f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3424398461183248674A21223756342D9569107750041769988",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 103,
+            "Name": "UMP-45 | Corporal",
+            "Price": "1.15f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Phoenix_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3419894861556209350A21258659123D14141868694101507628",
+            "StatTrak": "true"
+           }
+       ]
+}

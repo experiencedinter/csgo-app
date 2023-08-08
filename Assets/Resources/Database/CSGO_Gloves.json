@@ -1,0 +1,495 @@
+{
+    "Case":[
+    {
+     "ID": 0,
+     "Name": "Broken Fang Gloves | Yellow-banded",
+     "Price": "76.14f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678956569A20027416601D5190304497504201603",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 1,
+     "Name": "Broken Fang Gloves | Yellow-banded",
+     "Price": "95.01f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124146938024A20035707600D14289691264247524201",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 2,
+     "Name": "Broken Fang Gloves | Yellow-banded",
+     "Price": "119.65f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678251069A20026019347D4939827415379962723",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 3,
+     "Name": "Broken Fang Gloves | Yellow-banded",
+     "Price": "231.72f",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823863004077A20029874901D11826813478345853357",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 4,
+     "Name": "Broken Fang Gloves | Yellow-banded",
+     "Price": "1087.06f",
+     "Condition": 5,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3450288453024438226A20535432703D2514979547321279949",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 5,
+     "Name": "Broken Fang Gloves | Needle Point",
+     "Price": "73.85f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024051033155A20026276680D9692742667996324773",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 6,
+     "Name": "Broken Fang Gloves | Needle Point",
+     "Price": "73.45f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024061379865A20048228190D5533143233218986245",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 7,
+     "Name": "Broken Fang Gloves | Needle Point",
+     "Price": "75.09f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892831086A20026590630D14565591708992496483",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 8,
+     "Name": "Broken Fang Gloves | Needle Point",
+     "Price": "152.92f",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049893467086A20028069113D603871692707425229",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 9,
+     "Name": "Broken Fang Gloves | Needle Point",
+     "Price": "724.23f",
+     "Condition": 5,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623688058809A20042112463D355125446499706123",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 10,
+     "Name": "Broken Fang Gloves | Jade",
+     "Price": "109.70f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823866097827A20036584722D7785532017744882497",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 11,
+     "Name": "Broken Fang Gloves | Jade",
+     "Price": "145.39f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678687329A20027335108D2606922811456179597",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 12,
+     "Name": "Broken Fang Gloves | Jade",
+     "Price": "159.87f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415990221A20026794289D5109164936841765765",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 13,
+     "Name": "Broken Fang Gloves | Jade",
+     "Price": "399.68f",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049893457316A20028028623D11826851290767919435",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 14,
+     "Name": "Broken Fang Gloves | Jade",
+     "Price": "No Price",
+     "Condition": 5,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3451439254879162962A22136548655D16206034838589523873",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 15,
+     "Name": "Broken Fang Gloves | Unhinged",
+     "Price": "77.24f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823868801167A20043469395D5532048239260542371",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 16,
+     "Name": "Broken Fang Gloves | Unhinged",
+     "Price": "81.39f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224368112093A20027954393D895553286027692871",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 17,
+     "Name": "Broken Fang Gloves | Unhinged",
+     "Price": "92.57f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861392557A20026633808D9272845748018302411",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 18,
+     "Name": "Broken Fang Gloves | Unhinged",
+     "Price": "165.02f",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224368874373A20029459194D16910816869984190923",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 19,
+     "Name": "Broken Fang Gloves | Unhinged",
+     "Price": "No Price",
+     "Condition": 5,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3326435656381722935A20057690666D4630617925766548231",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 20,
+     "Name": "Driver Gloves | Snow Leopard",
+     "Price": "543.11f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623679524699A20029009860D16450420811589381905",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 21,
+     "Name": "Driver Gloves | Snow Leopard",
+     "Price": "685.20f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723771427268A20029517450D7964979575855162843",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 22,
+     "Name": "Driver Gloves | Snow Leopard",
+     "Price": "815.92f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861343447A20026665264D11719358638963426683",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 23,
+     "Name": "Driver Gloves | Snow Leopard",
+     "Price": "No Price",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Operation_Broken_Fang_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3791482417878057293A26056869439D12270561155503394205",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 24,
+     "Name": "Driver Gloves | Imperial Plaid",
+     "Price": "307.76f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3181101437859713065A13820577067D7073332711329669469",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 25,
+     "Name": "Driver Gloves | Imperial Plaid",
+     "Price": "381.92f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3181101437891271315A13874706376D11871883150642390001",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 26,
+     "Name": "Driver Gloves | Imperial Plaid",
+     "Price": "497.01f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3462576415369940189A13853408275D5647804983095223161",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 27,
+     "Name": "Driver Gloves | Imperial Plaid",
+     "Price": "962.10f",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M2893996959322501312A13879991438D11684871771031527829",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 28,
+     "Name": "Driver Gloves | Imperial Plaid",
+     "Price": "No Price",
+     "Condition": 5,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20S76561197963879303A17988811748D12396020531473722879",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 29,
+     "Name": "Driver Gloves | King Snake",
+     "Price": "331.42f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3364623123066533713A13853455000D16729585034250469719",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 30,
+     "Name": "Driver Gloves | King Snake",
+     "Price": "495.82f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3462576415369882649A13848418953D17150094954955860253",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 31,
+     "Name": "Driver Gloves | King Snake",
+     "Price": "630.03f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M2893996959308985832A13854790573D11836520849366114741",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 32,
+     "Name": "Driver Gloves | King Snake",
+     "Price": "No Price",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M2893996959302629782A13841516591D11855449994804735827",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 33,
+     "Name": "Driver Gloves | King Snake",
+     "Price": "No Price",
+     "Condition": 5,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20S76561199034345248A18655031431D7658728231445496153",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 34,
+     "Name": "Driver Gloves | Overtake",
+     "Price": "93.66f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1912212783952717895A13887195582D4901936048533055249",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 35,
+     "Name": "Driver Gloves | Overtake",
+     "Price": "113.50f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3104540243853870091A13820431601D9423013377075900345",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 36,
+     "Name": "Driver Gloves | Overtake",
+     "Price": "143.48f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3104540243868963331A13851976600D14880399576888935857",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 37,
+     "Name": "Driver Gloves | Overtake",
+     "Price": "360.19f",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3075266846297313654A13845342905D10128356654714325917",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 38,
+     "Name": "Driver Gloves | Overtake",
+     "Price": "1450.43f",
+     "Condition": 5,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1983159697787433885A14723525386D2739845509855240561",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 39,
+     "Name": "Driver Gloves | Racing Green",
+     "Price": "60.46f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M2459399594228027676A13821751224D16582541994261750589",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 40,
+     "Name": "Driver Gloves | Racing Green",
+     "Price": "60.85f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3364623123061099003A13842657458D17205842093536487871",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 41,
+     "Name": "Driver Gloves | Racing Green",
+     "Price": "61.53f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M2893996959307483712A13836168985D16171738645458117561",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 42,
+     "Name": "Driver Gloves | Racing Green",
+     "Price": "111.21f",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3104540243869246741A13852549483D12441089495805347123",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 43,
+     "Name": "Driver Gloves | Racing Green",
+     "Price": "717.43f",
+     "Condition": 5,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1969644469059083818A14569958726D16295442230296191931",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 44,
+     "Name": "Hand Wraps | Cobalt Skulls",
+     "Price": "403.90f",
+     "Condition": 1,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3364623123067390813A13855451414D16909616776425796686",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 45,
+     "Name": "Hand Wraps | Cobalt Skulls",
+     "Price": "523.40f",
+     "Condition": 2,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1913339950689033342A14151521789D210897960826870892",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 46,
+     "Name": "Hand Wraps | Cobalt Skulls",
+     "Price": "631.64f",
+     "Condition": 3,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3313957627269589120A13854944961D14763857416587236934",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 47,
+     "Name": "Hand Wraps | Cobalt Skulls",
+     "Price": "1227.14f",
+     "Condition": 4,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M1909960984145097913A13869340093D5207719159816582824",
+     "StatTrak": "false"
+    },
+    {
+     "ID": 48,
+     "Name": "Hand Wraps | Cobalt Skulls",
+     "Price": "No Price",
+     "Condition": 5,
+     "Color": 7,
+     "CaseName": "CSGO_Revolution_Case",
+     "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20S76561198378345036A18665833637D5336591936876222560",
+     "StatTrak": "false"
+    }
+   ]
+
+}

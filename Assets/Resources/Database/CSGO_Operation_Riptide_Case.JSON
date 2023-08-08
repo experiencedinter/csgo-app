@@ -1,0 +1,1684 @@
+{
+    "Case":[
+        {
+            "ID": 1,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "0.12f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532895502A23392960303D9406023363899430517",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 2,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "0.23f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3294936459969716048A23392756154D14863825095591254649",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 3,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "0.23f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719230400A23392882019D10090926769965297847",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 4,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "0.35f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225619716A23392888617D14154512915755840251",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 5,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "0.67f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3294936459969821768A23392948849D1021266696503563893",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 6,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "0.21f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532895502A23392960303D9406023363899430517",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 7,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "0.34f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3294936459969716048A23392756154D14863825095591254649",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 8,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "0.32f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719230400A23392882019D10090926769965297847",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 9,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "1.08f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225619716A23392888617D14154512915755840251",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 10,
+            "Name": "G3SG1 | Keeping Tabs",
+            "Price": "2.17f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3294936459969821768A23392948849D1021266696503563893",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 11,
+            "Name": "Dual Berettas | Tread",
+            "Price": "0.17f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719234020A23392845511D12575319985163600976",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 12,
+            "Name": "Dual Berettas | Tread",
+            "Price": "0.20f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132441877A23392897763D10241447700468756218",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 13,
+            "Name": "Dual Berettas | Tread",
+            "Price": "0.22f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039264898A23392930622D7531960606556204720",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 14,
+            "Name": "Dual Berettas | Tread",
+            "Price": "0.36f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532894842A23392960965D16628569659623139416",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 15,
+            "Name": "Dual Berettas | Tread",
+            "Price": "0.71f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626078161A23392871642D9575966492867833084",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 16,
+            "Name": "Dual Berettas | Tread",
+            "Price": "0.20f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719234020A23392845511D12575319985163600976",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 17,
+            "Name": "Dual Berettas | Tread",
+            "Price": "0.21f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132441877A23392897763D10241447700468756218",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 18,
+            "Name": "Dual Berettas | Tread",
+            "Price": "0.33f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039264898A23392930622D7531960606556204720",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 19,
+            "Name": "Dual Berettas | Tread",
+            "Price": "1.03f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532894842A23392960965D16628569659623139416",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 20,
+            "Name": "Dual Berettas | Tread",
+            "Price": "2.69f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626078161A23392871642D9575966492867833084",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 21,
+            "Name": "MP7 | Guerrilla",
+            "Price": "0.22f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626093401A23392926813D2885730014938161291",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 22,
+            "Name": "MP7 | Guerrilla",
+            "Price": "0.13f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039270858A23392929767D5071205328577767595",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 23,
+            "Name": "MP7 | Guerrilla",
+            "Price": "0.22f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156106246A23392933177D9665893041851222113",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 24,
+            "Name": "MP7 | Guerrilla",
+            "Price": "0.37f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719218360A23392868507D5496797288315135695",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 25,
+            "Name": "MP7 | Guerrilla",
+            "Price": "0.84f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300565959507176533A23392871147D16188231375967119939",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 26,
+            "Name": "MP7 | Guerrilla",
+            "Price": "0.19f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626093401A23392926813D2885730014938161291",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 27,
+            "Name": "MP7 | Guerrilla",
+            "Price": "0.22f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039270858A23392929767D5071205328577767595",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 28,
+            "Name": "MP7 | Guerrilla",
+            "Price": "0.28f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156106246A23392933177D9665893041851222113",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 29,
+            "Name": "MP7 | Guerrilla",
+            "Price": "1.00f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719218360A23392868507D5496797288315135695",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 30,
+            "Name": "MP7 | Guerrilla",
+            "Price": "2.83f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300565959507176533A23392871147D16188231375967119939",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 31,
+            "Name": "AUG | Plague",
+            "Price": "0.22f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225617976A23392936097D11992778537205431308",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 32,
+            "Name": "AUG | Plague",
+            "Price": "0.24f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156106366A23392958374D733665275335285996",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 33,
+            "Name": "AUG | Plague",
+            "Price": "0.21f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132453797A23392878167D11970577052530544800",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 34,
+            "Name": "AUG | Plague",
+            "Price": "0.39f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300565959507184093A23392866824D14730720820519653568",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 35,
+            "Name": "AUG | Plague",
+            "Price": "0.67f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156079746A23392818198D7407519833168722144",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 36,
+            "Name": "AUG | Plague",
+            "Price": "0.31f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225617976A23392936097D11992778537205431308",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 37,
+            "Name": "AUG | Plague",
+            "Price": "0.75f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156106366A23392958374D733665275335285996",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 38,
+            "Name": "AUG | Plague",
+            "Price": "0.36f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132453797A23392878167D11970577052530544800",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 39,
+            "Name": "AUG | Plague",
+            "Price": "1.07f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300565959507184093A23392866824D14730720820519653568",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 40,
+            "Name": "AUG | Plague",
+            "Price": "2.31f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156079746A23392818198D7407519833168722144",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 41,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "0.21f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3297188259783463570A23392939394D6937247868487931024",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 42,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "0.25f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039259158A23392914332D2893015258705662202",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 43,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "0.21f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3297188259783463350A23392945158D2884105603582899312",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 44,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "0.40f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059601358752A23392949698D12442395225188823154",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 45,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "0.68f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719216860A23392870300D9515030889153764054",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 46,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "0.30f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3297188259783463570A23392939394D6937247868487931024",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 47,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "0.40f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039259158A23392914332D2893015258705662202",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 48,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "0.38f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3297188259783463350A23392945158D2884105603582899312",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 49,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "1.25f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059601358752A23392949698D12442395225188823154",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 50,
+            "Name": "PP-Bizon | Lumen",
+            "Price": "2.90f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719216860A23392870300D9515030889153764054",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 51,
+            "Name": "XM1014 | Watchdog",
+            "Price": "0.20f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439816883A23392887308D335098846570991779",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 52,
+            "Name": "XM1014 | Watchdog",
+            "Price": "0.21f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039249518A23392886342D4957946471883972333",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 53,
+            "Name": "XM1014 | Watchdog",
+            "Price": "0.24f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439821043A23392874625D2895506843949170221",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 54,
+            "Name": "XM1014 | Watchdog",
+            "Price": "0.39f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225616816A23392941084D14295600467538580655",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 55,
+            "Name": "XM1014 | Watchdog",
+            "Price": "1.57f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532867162A23392868211D14169668084751645321",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 56,
+            "Name": "XM1014 | Watchdog",
+            "Price": "0.23f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439816883A23392887308D335098846570991779",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 57,
+            "Name": "XM1014 | Watchdog",
+            "Price": "0.23f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039249518A23392886342D4957946471883972333",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 58,
+            "Name": "XM1014 | Watchdog",
+            "Price": "0.40f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439821043A23392874625D2895506843949170221",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 59,
+            "Name": "XM1014 | Watchdog",
+            "Price": "1.11f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225616816A23392941084D14295600467538580655",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 60,
+            "Name": "XM1014 | Watchdog",
+            "Price": "6.91f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532867162A23392868211D14169668084751645321",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 61,
+            "Name": "USP-S | Black Lotus",
+            "Price": "0.40f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719219240A23392883034D17009616681107059559",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 62,
+            "Name": "USP-S | Black Lotus",
+            "Price": "0.46f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719229780A23392935854D9829706812760757191",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 63,
+            "Name": "USP-S | Black Lotus",
+            "Price": "0.51f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3290432860342481584A23392941221D4814038394725676329",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 64,
+            "Name": "USP-S | Black Lotus",
+            "Price": "0.88f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132452157A23392894768D9253468344505464167",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 65,
+            "Name": "USP-S | Black Lotus",
+            "Price": "2.00f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225546676A23392803921D2776089428171108717",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 66,
+            "Name": "USP-S | Black Lotus",
+            "Price": "1.51f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719219240A23392883034D17009616681107059559",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 67,
+            "Name": "USP-S | Black Lotus",
+            "Price": "1.67f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719229780A23392935854D9829706812760757191",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 68,
+            "Name": "USP-S | Black Lotus",
+            "Price": "1.78f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3290432860342481584A23392941221D4814038394725676329",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 69,
+            "Name": "USP-S | Black Lotus",
+            "Price": "3.67f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132452157A23392894768D9253468344505464167",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 70,
+            "Name": "USP-S | Black Lotus",
+            "Price": "21.83f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225546676A23392803921D2776089428171108717",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 71,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "0.56f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3291558760249988685A23394670701D2624613446348247729",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 72,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "0.62f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439802323A23392762179D2927951928848503893",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 73,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "0.55f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039265138A23392914017D7217663577481369751",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 74,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "1.07f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719232260A23392943270D902097213724102815",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 75,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "1.96f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156092766A23392904318D3074344773443460189",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 76,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "1.15f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3291558760249988685A23394670701D2624613446348247729",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 77,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "1.19f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439802323A23392762179D2927951928848503893",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 78,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "1.26f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306195459039265138A23392914017D7217663577481369751",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 79,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "3.18f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719232260A23392943270D902097213724102815",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 80,
+            "Name": "MAG-7 | BI83 Spectrum",
+            "Price": "5.69f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156092766A23392904318D3074344773443460189",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 82,
+            "Name": "Five-SeveN | Boost Protocol",
+            "Price": "0.98f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3293810560062897827A23392807937D586253856600498737",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 83,
+            "Name": "Five-SeveN | Boost Protocol",
+            "Price": "0.76f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3291558760249241945A23392894484D1878980225427195",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 84,
+            "Name": "Five-SeveN | Boost Protocol",
+            "Price": "1.12f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439822483A23392911774D5640900253781486609",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 85,
+            "Name": "Five-SeveN | Boost Protocol",
+            "Price": "2.14f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3291558760249240425A23392901850D14747741663743847643",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 87,
+            "Name": "Five-SeveN | Boost Protocol",
+            "Price": "2.49f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3293810560062897827A23392807937D586253856600498737",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 88,
+            "Name": "Five-SeveN | Boost Protocol",
+            "Price": "1.97f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3291558760249241945A23392894484D1878980225427195",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 89,
+            "Name": "Five-SeveN | Boost Protocol",
+            "Price": "3.68f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439822483A23392911774D5640900253781486609",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 90,
+            "Name": "Five-SeveN | Boost Protocol",
+            "Price": "6.66f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3291558760249240425A23392901850D14747741663743847643",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 91,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "0.84f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3294936459969819508A23392940193D2334773422663011348",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 92,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "0.82f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532877202A23392896196D902598716003108412",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 93,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "0.81f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132445397A23392907886D9278653611254514934",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 94,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "2.09f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156100546A23392907559D10098449315362563134",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 95,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "4.33f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719215660A23392903273D7244257730787410132",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 96,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "1.22f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3294936459969819508A23392940193D2334773422663011348",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 97,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "1.50f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532877202A23392896196D902598716003108412",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 98,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "1.43f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132445397A23392907886D9278653611254514934",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 99,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "4.73f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156100546A23392907559D10098449315362563134",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 100,
+            "Name": "MP9 | Mount Fuji",
+            "Price": "10.10f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719215660A23392903273D7244257730787410132",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 101,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "0.81f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300565959507202153A23392869811D12168847835802277590",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 102,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "0.87f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225610756A23392915726D5108208851772808434",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 103,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "0.98f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946121059A23392945019D16748586076172341272",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 104,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "1.66f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3294936459969817448A23392931785D4812215683210066130",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 105,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "5.13f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439779783A23392814588D14132542663788206232",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 106,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "1.82f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300565959507202153A23392869811D12168847835802277590",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 107,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "1.83f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303943659225610756A23392915726D5108208851772808434",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 108,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "2.35f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946121059A23392945019D16748586076172341272",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 109,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "4.84f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3294936459969817448A23392931785D4812215683210066130",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 110,
+            "Name": "FAMAS | ZX Spectron",
+            "Price": "20.61f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960439779783A23392814588D14132542663788206232",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 111,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "1.08f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298314159689245851A23392933581D2497391174009587366",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 112,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "1.00f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532890922A23392935735D7521132495826395778",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 113,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "1.33f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946121459A23392937167D596211065099480750",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 114,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "2.98f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156096506A23392911616D4958010665549507078",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 115,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "10.34f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060533761542A23394826310D14269209981353683594",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 116,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "2.53f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298314159689245851A23392933581D2497391174009587366",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 117,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "2.72f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060532890922A23392935735D7521132495826395778",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 118,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "3.76f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946121459A23392937167D596211065099480750",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 119,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "9.61f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3292684660156096506A23392911616D4958010665549507078",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 120,
+            "Name": "M4A4 | Spider Lily",
+            "Price": "35.97f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060533761542A23394826310D14269209981353683594",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 121,
+            "Name": "MAC-10 | Toybox",
+            "Price": "1.84f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626036141A23392815884D30096564100777675",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 122,
+            "Name": "MAC-10 | Toybox",
+            "Price": "2.14f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301691859415021734A23392897532D2921228985164439783",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 123,
+            "Name": "MAC-10 | Toybox",
+            "Price": "2.57f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132437057A23392879925D6944770855902341767",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 124,
+            "Name": "MAC-10 | Toybox",
+            "Price": "4.55f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946117879A23392921725D2796314130733957163",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 125,
+            "Name": "MAC-10 | Toybox",
+            "Price": "11.76f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300565959508065633A23394891725D3030441026117664993",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 126,
+            "Name": "MAC-10 | Toybox",
+            "Price": "4.01f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626036141A23392815884D30096564100777675",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 127,
+            "Name": "MAC-10 | Toybox",
+            "Price": "4.85f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301691859415021734A23392897532D2921228985164439783",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 128,
+            "Name": "MAC-10 | Toybox",
+            "Price": "5.36f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132437057A23392879925D6944770855902341767",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 129,
+            "Name": "MAC-10 | Toybox",
+            "Price": "11.30f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946117879A23392921725D2796314130733957163",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 130,
+            "Name": "MAC-10 | Toybox",
+            "Price": "36.66f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300565959508065633A23394891725D3030441026117664993",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 131,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "2.59f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3290432860342476284A23392920498D11712179029582967950",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 132,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "3.75f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719998760A23394634463D2517068962600358056",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 133,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "3.28f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946112299A23392913852D3317077880889308876",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 134,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "5.22f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3296062359875599389A23392922132D16151704911990390274",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 135,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "11.19f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059601353552A23392939401D14431481553262624482",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 136,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "6.18f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3290432860342476284A23392920498D11712179029582967950",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 137,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "9.42f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719998760A23394634463D2517068962600358056",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 138,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "8.27f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307321358946112299A23392913852D3317077880889308876",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 139,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "17.44f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3296062359875599389A23392922132D16151704911990390274",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 140,
+            "Name": "SSG 08 | Turbo Peek",
+            "Price": "38.32f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299440059601353552A23392939401D14431481553262624482",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 141,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "2.19f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3297188259783452070A23392881081D893588691805719844",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 142,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "2.12f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626081261A23392908909D7930397389595347328",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 143,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "2.40f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301691859415025094A23392907307D16342479376039847784",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 144,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "4.63f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719228960A23392934973D14573756696177418690",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 145,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "14.93f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719635240A23393804723D7992348107356901128",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 146,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "5.45f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3297188259783452070A23392881081D893588691805719844",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 147,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "5.67f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626081261A23392908909D7930397389595347328",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 148,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "7.25f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301691859415025094A23392907307D16342479376039847784",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 149,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "16.67f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719228960A23392934973D14573756696177418690",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 150,
+            "Name": "Glock-18 | Snack Attack",
+            "Price": "62.81f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3285929260719635240A23393804723D7992348107356901128",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 151,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "13.24f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3290432860342483544A23392913068D13871902993978418067",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 152,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "14.97f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3297188259784175110A23394557318D9425625855597773629",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 153,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "13.49f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132452177A23392933075D17158963407779710419",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 154,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "21.00f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060533774062A23393674235D16630808564806233399",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 155,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "44.13f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3296062359875592429A23392889221D155633827653021535",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 156,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "39.54f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3290432860342483544A23392913068D13871902993978418067",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 157,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "47.39f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3297188259784175110A23394557318D9425625855597773629",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 158,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "41.02f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305069559132452177A23392933075D17158963407779710419",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 159,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "69.32f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3288181060533774062A23393674235D16630808564806233399",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 160,
+            "Name": "AK-47 | Leet Museo",
+            "Price": "146.40f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3296062359875592429A23392889221D155633827653021535",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 161,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "8.84f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301691859414977534A23392827294D7215963310963871305",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 162,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "12.24f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3293810560062928107A23392867734D14162145207468556389",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 163,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "15.67f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626073441A23392891940D145276851676660843",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 164,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "35.40f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960440258223A23394073226D4623594298076612169",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 165,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "110.48f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3290432860343253844A23394383204D596951424580208717",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 166,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "24.62f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301691859414977534A23392827294D7215963310963871305",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 167,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "30.22f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3293810560062928107A23392867734D14162145207468556389",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 168,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "47.40f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3287055160626073441A23392891940D145276851676660843",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 169,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "67.50f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3289306960440258223A23394073226D4623594298076612169",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 170,
+            "Name": "Desert Eagle | Ocean Drive",
+            "Price": "321.64f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Riptide_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3290432860343253844A23394383204D596951424580208717",
+            "StatTrak": "true"
+           }
+   ]
+}

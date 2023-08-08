@@ -1,0 +1,1704 @@
+{
+    "Case":[
+        {
+            "ID": 0,
+            "Name": "M4A1-S | Printstream",
+            "Price": "143.72f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861219057A20026218564D14575350588070688066",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 1,
+            "Name": "M4A1-S | Printstream",
+            "Price": "185.43f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415942281A20026737114D5540111593768852264",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 2,
+            "Name": "M4A1-S | Printstream",
+            "Price": "217.56f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678168079A20026286330D9280491993425081324",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 3,
+            "Name": "M4A1-S | Printstream",
+            "Price": "341.08f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944609932A20026344342D9433563802873196846",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 4,
+            "Name": "M4A1-S | Printstream",
+            "Price": "634.43f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861205927A20026224586D4675900428942660518",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 5,
+            "Name": "M4A1-S | Printstream",
+            "Price": "250.20f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861219057A20026218564D14575350588070688066",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 6,
+            "Name": "M4A1-S | Printstream",
+            "Price": "502.83f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415942281A20026737114D5540111593768852264",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 7,
+            "Name": "M4A1-S | Printstream",
+            "Price": "370.11f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678168079A20026286330D9280491993425081324",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 8,
+            "Name": "M4A1-S | Printstream",
+            "Price": "524.36f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944609932A20026344342D9433563802873196846",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 9,
+            "Name": "M4A1-S | Printstream",
+            "Price": "1322.20f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861205927A20026224586D4675900428942660518",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 10,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "7.68f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944512402A20026156753D3091206907992630734",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 11,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "9.99f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050996165A20026143521D596309182583188774",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 12,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "13.00f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140271764A20026144373D5521422929422206432",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 13,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "27.79f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140273284A20026148564D3046734112203138336",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 14,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "68.46f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140431694A20026497886D2634185820183121384",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 15,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "22.92f",
+            "Condition": 1,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944512402A20026156753D3091206907992630734",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 16,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "31.86f",
+            "Condition": 2,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050996165A20026143521D596309182583188774",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 17,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "40.65f",
+            "Condition": 3,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140271764A20026144373D5521422929422206432",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 18,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "91.58f",
+            "Condition": 4,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140273284A20026148564D3046734112203138336",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 19,
+            "Name": "Glock-18 | Neo-Noir",
+            "Price": "256.84f",
+            "Condition": 5,
+            "Color": 6,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140431694A20026497886D2634185820183121384",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 20,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "16.54f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861287717A20026526978D290735109480243308",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 21,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "16.30f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892599446A20026238736D14424471468191335566",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 22,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "17.20f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678023109A20025989543D7964702720288467626",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 23,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "29.52f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769694258A20025955819D17035477927921675342",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 24,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "52.98f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861290807A20026549478D9278064264764000450",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 25,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "17.16f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861287717A20026526978D290735109480243308",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 26,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "21.53f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892599446A20026238736D14424471468191335566",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 27,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "26.37f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678023109A20025989543D7964702720288467626",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 28,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "58.05f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769694258A20025955819D17035477927921675342",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 29,
+            "Name": "M4A4 | Cyber Security",
+            "Price": "118.58f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861290807A20026549478D9278064264764000450",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 30,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "15.46f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140211914A20026007002D16450040340565467389",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 31,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "16.71f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892592186A20026230088D11594669310137909983",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 32,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "18.51f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892583486A20026151601D10098198904815240287",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 33,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "29,79f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678122809A20026178755D2468650643976890047",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 34,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "60.37f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367337123A20026556868D2605975358331208723",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 35,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "20.17f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140211914A20026007002D16450040340565467389",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 36,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "20.31f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892592186A20026230088D11594669310137909983",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 37,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "28.02f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892583486A20026151601D10098198904815240287",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 38,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "50.58f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678122809A20026178755D2468650643976890047",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 39,
+            "Name": "Five-SeveN | Fairy Tale",
+            "Price": "115.08f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367337123A20026556868D2605975358331208723",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 40,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "17.95f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944478332A20026084247D12297782916791916967",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 41,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "17.61f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892642466A20026285107D5089771828511734025",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 42,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "18.51f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415670341A20026126131D12144069096396258055",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 43,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "28.84f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944503282A20026132062D17178081431251269993",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 44,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "50.02f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668562290A20025987066D16304265166050537923",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 45,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "22.18f",
+            "Condition": 1,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944478332A20026084247D12297782916791916967",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 46,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "24.44f",
+            "Condition": 2,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892642466A20026285107D5089771828511734025",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 47,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "27.01f",
+            "Condition": 3,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415670341A20026126131D12144069096396258055",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 48,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "58.43f",
+            "Condition": 4,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944503282A20026132062D17178081431251269993",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 49,
+            "Name": "USP-S | Monster Mashup",
+            "Price": "103.04f",
+            "Condition": 5,
+            "Color": 5,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668562290A20025987066D16304265166050537923",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 50,
+            "Name": "AWP | Exoskeleton",
+            "Price": "2.17f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668579260A20026020046D12171800453474079747",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 51,
+            "Name": "AWP | Exoskeleton",
+            "Price": "2.13f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861114787A20026144150D16612699898229489287",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 52,
+            "Name": "AWP | Exoskeleton",
+            "Price": "2.44f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861041097A20025783413D882741185935741157",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 53,
+            "Name": "AWP | Exoskeleton",
+            "Price": "4.18f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140267754A20026126274D14755743242010112673",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 54,
+            "Name": "AWP | Exoskeleton",
+            "Price": "11.84f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024051086345A20026606600D207271748077525069",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 55,
+            "Name": "AWP | Exoskeleton",
+            "Price": "6.21f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668579260A20026020046D12171800453474079747",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 56,
+            "Name": "AWP | Exoskeleton",
+            "Price": "6.39f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861114787A20026144150D16612699898229489287",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 57,
+            "Name": "AWP | Exoskeleton",
+            "Price": "6.02f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861041097A20025783413D882741185935741157",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 58,
+            "Name": "AWP | Exoskeleton",
+            "Price": "11.37f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140267754A20026126274D14755743242010112673",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 59,
+            "Name": "AWP | Exoskeleton",
+            "Price": "35.31f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024051086345A20026606600D207271748077525069",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 60,
+            "Name": "SSG 08 | Parallax",
+            "Price": "1.93f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050969025A20026319398D16331396318272183492",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 61,
+            "Name": "SSG 08 | Parallax",
+            "Price": "2.17f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861212497A20026055785D11853596165746365070",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 62,
+            "Name": "SSG 08 | Parallax",
+            "Price": "2.78f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769763958A20026050943D16295336461123195086",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 63,
+            "Name": "SSG 08 | Parallax",
+            "Price": "3.93f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769795938A20026102494D5390288310874340420",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 64,
+            "Name": "SSG 08 | Parallax",
+            "Price": "6.18f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024051031085A20026475654D16639301165801821358",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 65,
+            "Name": "SSG 08 | Parallax",
+            "Price": "2.53f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050969025A20026319398D16331396318272183492",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 66,
+            "Name": "SSG 08 | Parallax",
+            "Price": "2.78f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861212497A20026055785D11853596165746365070",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 67,
+            "Name": "SSG 08 | Parallax",
+            "Price": "3.56f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769763958A20026050943D16295336461123195086",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 68,
+            "Name": "SSG 08 | Parallax",
+            "Price": "7.09f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769795938A20026102494D5390288310874340420",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 69,
+            "Name": "SSG 08 | Parallax",
+            "Price": "22.60f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024051031085A20026475654D16639301165801821358",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 70,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "2.09f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050874915A20025881077D7496281895759066766",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 71,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "3.70f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415810901A20026432242D5650896738335447718",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 72,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "2.53f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769844018A20026275508D16487340187584781390",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 73,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "3.80f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892470266A20025951102D9416640514363455586",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 74,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "6.01f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944572972A20026143151D11676189567994149954",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 75,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "2.51f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050874915A20025881077D7496281895759066766",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 76,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "2.84f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415810901A20026432242D5650896738335447718",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 77,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "3.49f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769844018A20026275508D16487340187584781390",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 78,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "7.07f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892470266A20025951102D9416640514363455586",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 79,
+            "Name": "UMP-45 | Gold Bismuth",
+            "Price": "12.41f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944572972A20026143151D11676189567994149954",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 80,
+            "Name": "Nova | Clear Polymer",
+            "Price": "1.98f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678161109A20026274863D14847488370769446995",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 81,
+            "Name": "Nova | Clear Polymer",
+            "Price": "2.07f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668707480A20026294558D7937145779178760919",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 82,
+            "Name": "Nova | Clear Polymer",
+            "Price": "2.56f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678049089A20026036415D10234582611191966749",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 83,
+            "Name": "Nova | Clear Polymer",
+            "Price": "4.09f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140357174A20026324221D16586270069755407967",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 84,
+            "Name": "Nova | Clear Polymer",
+            "Price": "6.22f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415742361A20026060386D9991977122393235645",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 85,
+            "Name": "Nova | Clear Polymer",
+            "Price": "2.15f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678161109A20026274863D14847488370769446995",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 86,
+            "Name": "Nova | Clear Polymer",
+            "Price": "2.58f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668707480A20026294558D7937145779178760919",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 87,
+            "Name": "Nova | Clear Polymer",
+            "Price": "3.25f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678049089A20026036415D10234582611191966749",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 88,
+            "Name": "Nova | Clear Polymer",
+            "Price": "7.19f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140357174A20026324221D16586270069755407967",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 89,
+            "Name": "Nova | Clear Polymer",
+            "Price": "14.35f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415742361A20026060386D9991977122393235645",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 90,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "1.98f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892570476A20026174148D12008402291588656208",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 91,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "2.07f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668555770A20025895003D9945110035439299190",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 92,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "2.45f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892470976A20025896911D2487304546977317914",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 93,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "4.01f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050864695A20026004834D9241998101655358526",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 94,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "6.12f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892711776A20026495092D2309966496258352208",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 95,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "2.51f",
+            "Condition": 1,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892570476A20026174148D12008402291588656208",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 96,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "2.72f",
+            "Condition": 2,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668555770A20025895003D9945110035439299190",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 97,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "3.34f",
+            "Condition": 3,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892470976A20025896911D2487304546977317914",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 98,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "7.60f",
+            "Condition": 4,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050864695A20026004834D9241998101655358526",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 99,
+            "Name": "Dual Berettas | Dezastre",
+            "Price": "12.00f",
+            "Condition": 5,
+            "Color": 4,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892711776A20026495092D2309966496258352208",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 100,
+            "Name": "Galil AR | Vandal",
+            "Price": "0.28f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668560370A20025912710D2911261470480422153",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 101,
+            "Name": "Galil AR | Vandal",
+            "Price": "0.31f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415673621A20026136902D5395425527190820301",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 102,
+            "Name": "Galil AR | Vandal",
+            "Price": "0.44f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367151463A20026067484D16187635273707044097",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 103,
+            "Name": "Galil AR | Vandal",
+            "Price": "0.54f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944538882A20026173509D2787168289324315105",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 104,
+            "Name": "Galil AR | Vandal",
+            "Price": "1.11f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769729308A20025968634D622735099486441835",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 105,
+            "Name": "Galil AR | Vandal",
+            "Price": "0.35f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668560370A20025912710D2911261470480422153",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 106,
+            "Name": "Galil AR | Vandal",
+            "Price": "0.35f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415673621A20026136902D5395425527190820301",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 107,
+            "Name": "Galil AR | Vandal",
+            "Price": "0.44f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367151463A20026067484D16187635273707044097",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 108,
+            "Name": "Galil AR | Vandal",
+            "Price": "0.95f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944538882A20026173509D2787168289324315105",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 109,
+            "Name": "Galil AR | Vandal",
+            "Price": "3.88f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3307294723769729308A20025968634D622735099486441835",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 110,
+            "Name": "M249 | Deep Relief",
+            "Price": "0.28f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668606520A20026059186D14566940033325397884",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 111,
+            "Name": "M249 | Deep Relief",
+            "Price": "0.31f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678101159A20026141551D10002187905770592752",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 112,
+            "Name": "M249 | Deep Relief",
+            "Price": "0.44f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050853825A20026041046D4649027911205140946",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 113,
+            "Name": "M249 | Deep Relief",
+            "Price": "0.55f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892639186A20026299242D16744462891358395740",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 114,
+            "Name": "M249 | Deep Relief",
+            "Price": "1.21f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668606880A20026019996D7791346248774365598",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 115,
+            "Name": "M249 | Deep Relief",
+            "Price": "0.32f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668606520A20026059186D14566940033325397884",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 116,
+            "Name": "M249 | Deep Relief",
+            "Price": "0.36f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678101159A20026141551D10002187905770592752",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 117,
+            "Name": "M249 | Deep Relief",
+            "Price": "0.46f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050853825A20026041046D4649027911205140946",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 118,
+            "Name": "M249 | Deep Relief",
+            "Price": "0.99f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892639186A20026299242D16744462891358395740",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 119,
+            "Name": "M249 | Deep Relief",
+            "Price": "3.73f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668606880A20026019996D7791346248774365598",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 120,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "0.32f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415772851A20026308662D12559563151418404113",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 121,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "0.27f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668571990A20025894300D769744091069883285",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 122,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "0.48f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367106493A20026069889D4901711210519422239",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 123,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "0.75f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668602720A20026072533D12457533694978231165",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 124,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "1.09f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050930145A20026234424D9801521683782660063",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 125,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "0.35f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3299413424415772851A20026308662D12559563151418404113",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 126,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "0.37f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668571990A20025894300D769744091069883285",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 127,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "0.50f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367106493A20026069889D4901711210519422239",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 128,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "1.11f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668602720A20026072533D12457533694978231165",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 129,
+            "Name": "MP5-SD | Condition Zero",
+            "Price": "2.99f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050930145A20026234424D9801521683782660063",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 130,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "0.29f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050887725A20026163778D12601099591537405",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 131,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "0.38f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367132573A20025741852D5335225031692138173",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 132,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "0.42f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892616916A20026222262D7505959750969333499",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 133,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "0.90f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678044329A20026007152D462395939112639157",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 134,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "1.01f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140294204A20026183839D892956028131129917",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 135,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "0.31f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050887725A20026163778D12601099591537405",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 136,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "0.38f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367132573A20025741852D5335225031692138173",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 137,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "0.47f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892616916A20026222262D7505959750969333499",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 138,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "1.27f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678044329A20026007152D462395939112639157",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 139,
+            "Name": "G3SG1 | Digital Mesh",
+            "Price": "2.77f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140294204A20026183839D892956028131129917",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 140,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "0.32f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367117813A20025733074D292391805078716373",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 141,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "0.37f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668598940A20026048491D5350281736399729565",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 142,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "0.46f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367113613A20026090462D4667462089025892755",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 143,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "0.57f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367195523A20026260491D16637083072518421465",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 144,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "1.12f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140288964A20026110002D4920409281311233329",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 145,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "0.32f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367117813A20025733074D292391805078716373",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 146,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "0.35f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668598940A20026048491D5350281736399729565",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 147,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "0.53f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367113613A20026090462D4667462089025892755",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 148,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "0.99f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367195523A20026260491D16637083072518421465",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 149,
+            "Name": "CZ75-Auto | Vendetta",
+            "Price": "3.24f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140288964A20026110002D4920409281311233329",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 150,
+            "Name": "P250 | Contaminant",
+            "Price": "0.33f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140364064A20026291519D10151197991344161066",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 151,
+            "Name": "P250 | Contaminant",
+            "Price": "0.36f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861184237A20026144099D299736528625879822",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 152,
+            "Name": "P250 | Contaminant",
+            "Price": "0.43f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367140333A20026107825D16611114815485036516",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 153,
+            "Name": "P250 | Contaminant",
+            "Price": "0.55f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367143053A20026078350D5218203445464196392",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 154,
+            "Name": "P250 | Contaminant",
+            "Price": "0.78f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892545256A20026118500D3045606152813715878",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 155,
+            "Name": "P250 | Contaminant",
+            "Price": "0.37f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3302791124140364064A20026291519D10151197991344161066",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 156,
+            "Name": "P250 | Contaminant",
+            "Price": "1.03f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3306168823861184237A20026144099D299736528625879822",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 157,
+            "Name": "P250 | Contaminant",
+            "Price": "0.45f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367140333A20026107825D16611114815485036516",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 158,
+            "Name": "P250 | Contaminant",
+            "Price": "1.09f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3301665224367143053A20026078350D5218203445464196392",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 159,
+            "Name": "P250 | Contaminant",
+            "Price": "2.42f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3305043049892545256A20026118500D3045606152813715878",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 160,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "0.31f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678056509A20026050063D7989541933161212063",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 161,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "0.33f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668683630A20025437488D7641566566916287637",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 162,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "0.44f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050838175A20026044874D767347131003907153",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 163,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "0.54f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944518262A20026162065D12461148362934968923",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 164,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "0.89f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050810775A20025981510D7061827210956874391",
+            "StatTrak": "false"
+           },
+           {
+            "ID": 165,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "0.35f",
+            "Condition": 1,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3308420623678056509A20026050063D7989541933161212063",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 166,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "0.59f",
+            "Condition": 2,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3298287524668683630A20025437488D7641566566916287637",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 167,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "0.58f",
+            "Condition": 3,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050838175A20026044874D767347131003907153",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 168,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "0.91f",
+            "Condition": 4,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3300539326944518262A20026162065D12461148362934968923",
+            "StatTrak": "true"
+           },
+           {
+            "ID": 169,
+            "Name": "P90 | Cocoa Rampage",
+            "Price": "2.31f",
+            "Condition": 5,
+            "Color": 3,
+            "CaseName": "CSGO_Operation_Broken_Fang_Case",
+            "InspectInGame": "steam:\/\/rungame\/730\/76561202255233023\/+csgo_econ_action_preview%20M3303917024050810775A20025981510D7061827210956874391",
+            "StatTrak": "true"
+           }
+       ]
+}
